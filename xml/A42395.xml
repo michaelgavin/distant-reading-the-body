@@ -1,0 +1,2807 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thw admirable virtues, and wonderful effects of the true and genuine tincture of coral, in physick; grounded upon reason, established by experience, and confirmed by authentical authors in all ages. Never found out plainly till now. By Theophilus Garencieres, doctor in physick, Colleg. Lond.</title>
+            <author>Garencières, Theophilus, 1610-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 52 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2008-09">2008-09 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A42395</idno>
+            <idno type="STC">Wing G253</idno>
+            <idno type="STC">ESTC R213757</idno>
+            <idno type="EEBO-CITATION">99826056</idno>
+            <idno type="PROQUEST">99826056</idno>
+            <idno type="VID">30448</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+	       Commons 0 1.0 Universal</ref>. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A42395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1759:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thw admirable virtues, and wonderful effects of the true and genuine tincture of coral, in physick; grounded upon reason, established by experience, and confirmed by authentical authors in all ages. Never found out plainly till now. By Theophilus Garencieres, doctor in physick, Colleg. Lond.</title>
+                  <author>Garencières, Theophilus, 1610-1680.</author>
+               </titleStmt>
+               <extent>[12], 83, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W.R. for Samuel Sprint at the sign of the Bell in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On verso of title page: Licensed, Apr. 1. 1676. Ro. L'Estange.</note>
+                  <note>Reproduction of the original in the St. John's College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-01</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2007-02</date>
+            <label>Celeste Ng</label>Sampled and proofread</change>
+         <change>
+            <date>2007-02</date>
+            <label>Celeste Ng</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2008-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:30448:1"/>
+            <pb facs="tcp:30448:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc><1 page duplicate></desc>
+            </gap>
+            <pb facs="tcp:30448:2"/>
+            <p>LICENSED,</p>
+            <closer>
+               <date>Apr. 1. 1676.</date>
+               <signed>Ro. L'Estrange.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:30448:2"/>
+            <p>THE ADMIRABLE
+VIRTUES,
+And Wonderful
+EFFECTS
+OF THE
+True and Genuine Tincture
+OF
+CORAL,
+In PHYSICK;
+Grounded upon Rea<U+017F>on, e<U+017F>tabli<U+017F>h<g ref="char:EOLhyphen"/>ed
+by Experience, and confirmed by Au<g ref="char:EOLhyphen"/>thentical
+Authors in all Ages.</p>
+            <p>Never found out plainly till now.</p>
+            <p>By <hi>Theophilus Garencieres,</hi>
+Doctor in Phy<U+017F>ick, <hi>Colleg. Lond.</hi>
+            </p>
+            <q>
+               <p>Io <U+017F>uon Medico non di Parole ma d'Effecto.</p> 
+               <bibl>Cardan.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. R.</hi> for <hi>Samuel Sprint</hi> at the
+Sign of the Bell in <hi>Little Britain.</hi> 1676.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:30448:3"/>
+            <p>
+               <figure>
+                  <p>Collegium Sancti Johannis
+Evangeli<U+017F>tae in Academia
+Cantabrigien<U+017F>i</p>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:30448:3"/>
+            <head>To the Honorable
+<hi>S<hi rend="sup">r</hi> WALTER LONG,</hi>
+BARONET.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope not to incur
+your blame, when I
+prefix your Name to
+this <U+017F>mall Treati<U+017F>e. The Mat<g ref="char:EOLhyphen"/>ter
+is new, though long
+<U+017F>ought after; the <U+017F>cope is the
+<pb facs="tcp:30448:4"/>
+publick good, and my pri<g ref="char:EOLhyphen"/>vate
+aim is to <U+017F>hew my gra<g ref="char:EOLhyphen"/>titude
+for <U+017F>o many obligati<g ref="char:EOLhyphen"/>ons
+you have been plea<U+017F>ed to
+lay upon me, be<U+017F>ides my
+hopes, that the de<U+017F>ign of the
+Subject may perhaps be ap<g ref="char:EOLhyphen"/>proved
+by experiment, and
+the <U+017F>malne<U+017F>s of the Volume
+pa<U+017F>s among tho<U+017F>e things that
+are not illu<U+017F>ory. And to
+<U+017F>ay truth, under who<U+017F>e
+Wings could I have <U+017F>hel<g ref="char:EOLhyphen"/>tered
+it better than yours?
+Who<U+017F>e Affability and
+Candor is open to the
+<pb facs="tcp:30448:4"/>
+greate<U+017F>t Strangers, and par<g ref="char:EOLhyphen"/>ticularly
+my Self, with your
+never enough to be com<g ref="char:EOLhyphen"/>mended,
+generous Ho<U+017F>pita<g ref="char:EOLhyphen"/>lity.</p>
+            <p>But my intention here,
+being not to make your
+Panegyrick, I <U+017F>uper<U+017F>ede and
+<U+017F>pare your Mode<U+017F>ty, it be<g ref="char:EOLhyphen"/>ing
+<U+017F>ufficient to me, if the
+Author and the Work
+can de<U+017F>erve your Protecti<g ref="char:EOLhyphen"/>on,
+and the favorable
+Looks of your worthy
+Brother, Ma<U+017F>ter <hi>Robert</hi>
+               <pb facs="tcp:30448:5"/>
+               <hi>Long,</hi> and <U+017F>o ingage me to
+remain the re<U+017F>t of my days</p>
+            <closer>
+               <signed>Your mo<U+017F>t humble
+and affectionate Servant
+Garencieres.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:30448:5"/>
+            <head>Ad Authorem
+De Extracta <hi>CORALII</hi>
+Tinctura Dodeca<U+017F>tichon.</head>
+            <l>A Multis quae<U+017F>ita diu Tinctura Rubentis</l>
+            <l>Coralii, nobis ecce reperta patet.</l>
+            <l>Quod veluti rigidum dure<U+017F>cit in aêre marmor,</l>
+            <l>Cardiacus mirâ jam datur arte Liquor.</l>
+            <l>Lethiferi poto coguntur cedere morbi;</l>
+            <l>Aufugiunt pe<U+017F>tis dira, maligna febris.</l>
+            <l>Cedit &amp; infantum convul<U+017F>io; foemina Lae<U+017F>ae</l>
+            <l>Matricis rabido laeta dolore vacat.</l>
+            <l>I<U+017F>ta <U+017F>ub ingenti cre<U+017F>centia pharmaca ponto,</l>
+            <l>
+               <hi>Hippocratis</hi> dicant munera digna manu.</l>
+            <l>Filum Parca <U+017F>ecet; non te vixi<U+017F><U+017F>e pigebit:</l>
+            <l>Si tua tam rarum tempora finit opus.</l>
+            <closer>
+               <signed>Petrus Cottereau.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:30448:6"/>
+            <pb facs="tcp:30448:6"/>
+            <head>THE
+CONTENTS
+OF THE
+BOOK.</head>
+            <p>
+               <hi>CHap.</hi> 1. Of <hi>Coral,</hi> and of the divers
+kinds thereof.</p>
+            <p>
+               <hi>Chap.</hi> 2. Of the Nature, Faculties, and Vir<g ref="char:EOLhyphen"/>tues
+of <hi>Coral.</hi>
+            </p>
+            <p>
+               <hi>Chap.</hi> 3. Of the Tincture of <hi>Coral,</hi> and what
+is Tincture.</p>
+            <p>
+               <hi>Chap.</hi> 4. Why in the Curing of Di<U+017F>ea<U+017F>es, we
+chu<U+017F>e rather to make u<U+017F>e of the Tincture of
+<hi>Coral,</hi> than of the whole Body in <U+017F>ub<U+017F>tance,
+however prepared.</p>
+            <p>
+               <hi>Chap.</hi> 5. How the Tincture of <hi>Coral</hi> worketh
+upon Di<U+017F>ea<U+017F>es.</p>
+            <p>
+               <hi>Chap.</hi> 6. Of the Virtues of the Tincture of
+<hi>Coral,</hi> in the Curing of all Malignant Fea<g ref="char:EOLhyphen"/>vers.</p>
+            <p>
+               <hi>Chap.</hi> 7. Of the dangerous and poy<U+017F>onous qua<g ref="char:EOLhyphen"/>lity
+and u<U+017F>e of Bli<U+017F>tering Plai<U+017F>ters, and that
+<pb facs="tcp:30448:7"/>
+they ought to be exterminated out of the Fa<g ref="char:EOLhyphen"/>mily
+of Remedies.</p>
+            <p>
+               <hi>Chap.</hi> 8. Of the Virtues of the Tincture of
+<hi>Coral,</hi> in all Feavers and Agues.</p>
+            <p>
+               <hi>Chap.</hi> 9. How the Tincture of <hi>Coral</hi> worketh
+upon all tho<U+017F>e other Di<U+017F>ea<U+017F>es, we have <U+017F>aid it
+was fit for.</p>
+            <p>
+               <hi>Chap.</hi> 10. How and in what <hi>Vehicles</hi> the Tin<g ref="char:EOLhyphen"/>cture
+of <hi>Coral</hi> is to be admini<U+017F>tred.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:30448:7"/>
+            <head>CHAP. I.</head>
+            <head type="sub">Of <hi>Coral,</hi> and of the divers kinds there<g ref="char:EOLhyphen"/>of.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Oral</hi> is a Shrub, growing in the bot<g ref="char:EOLhyphen"/>tom
+of the Sea, which becometh
+Stony when expo<U+017F>ed to the Air.</p>
+            <q>
+               <l>Sic &amp; <hi>Coralium,</hi> quo primum contigit auras</l>
+               <l>Tempore, dure<U+017F>cit; mollis fuit herba <U+017F>ub undis.</l>
+               <bibl>Ovid. 4 Metamor.</bibl>
+            </q>
+            <p>Therefore is it called by the <hi>Greeks</hi> 
+               <gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap>
+and <gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap>, that is, <hi>The Stony Tree,</hi> in
+<hi>Latin Coralium.</hi>
+            </p>
+            <p>There is divers <U+017F>orts of it according to
+their <U+017F>everal colours; for there is a Red, a
+White, a Black, a Green, a Yellowi<U+017F>h, of an
+A<U+017F>h-colour and of mixed colours. The Red,
+<pb n="2" facs="tcp:30448:8"/>
+which is called the <hi>Male,</hi> is preferred above
+all the re<U+017F>t, and is the <U+017F>ubject of this our Trea<g ref="char:EOLhyphen"/>ti<U+017F>e.
+<hi>An<U+017F>elmus de Booth,</hi> Phy<U+017F>ician to the
+Emperor <hi>Rodolphus</hi> the Second, affirmeth,
+To have <U+017F>een in the <U+017F>aid Emperors Cabinet,
+Branches of <hi>Coral</hi> of <U+017F>everal colours upon the
+<U+017F>ame Body; <U+017F>o that the Body of it was <hi>Coral</hi>
+and <hi>Stony,</hi> and the Branches <hi>Ligneous</hi> and
+<hi>Woody,</hi> which is not improbable to me;
+for I have <U+017F>een in the North of <hi>Ireland</hi> a
+Lake called <hi>Lake Neaugh,</hi> wherein, if a
+piece of Wood that groweth thereabout be
+planted, that part which is in the Ground
+<U+017F>hall be turned into <hi>Iron,</hi> that which is in
+the Water into <hi>Stone,</hi> and what is above Wa<g ref="char:EOLhyphen"/>ter
+<U+017F>hall remain <hi>Wood.</hi> But let us come to
+<hi>Coral</hi> again, who<U+017F>e generation is not much
+unlike; for when that Juyce that is in it, cal<g ref="char:EOLhyphen"/>led
+by the <hi>Latins, Succus Lapide<U+017F>cens,</hi> runneth
+thorough the Body of the Vegetable, it al<g ref="char:EOLhyphen"/>tereth
+it, and turneth it into a <U+017F>tony <U+017F>ub<g ref="char:EOLhyphen"/><U+017F>tance.
+Whence we may g<gap reason="illegible: missing" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<U+017F>s, That <hi>Coral,</hi>
+under Water, is not altogether <U+017F>oft and flexi<g ref="char:EOLhyphen"/>ble,
+though it groweth <U+017F>tony, when expo<U+017F>ed
+to the Air; which cannot be wondered at,
+<U+017F>eeing there be many Stones, both in <hi>France</hi>
+and <hi>England,</hi> which being newly digged out
+of the Ground, are in a manner as <U+017F>oft as
+Chee<U+017F>e: But having been a while expo<U+017F>ed
+<pb n="3" facs="tcp:30448:8"/>
+to the Air, grow to a con<U+017F>iderable hard<g ref="char:EOLhyphen"/>ne<U+017F>s,
+the Sun and the Air having exhau<U+017F>t<g ref="char:EOLhyphen"/>ed
+the wateri<U+017F>h part of them. Now whe<g ref="char:EOLhyphen"/>ther
+<hi>Coral</hi> groweth out of the Petrifying
+Juyce, or being ingendred as other Plants,
+is at la<U+017F>t altered by the <U+017F>aid Petrifying Juyce,
+is a que<U+017F>tion. For my part, I believe that
+it doth not grow without that Petrifying
+Juyce, no more then the <hi>Sea-fan,</hi> called <hi>Co<g ref="char:EOLhyphen"/>rallina,</hi>
+the <hi>Alga,</hi> and other Herbs which
+grow in the Sea, and that it doth not petrifie
+till it dieth: By dying, I mean, that when
+by the ordinary cour<U+017F>e of Nature, or by
+the violent action of the Stony Juyce, pene<g ref="char:EOLhyphen"/>trating
+the inmo<U+017F>t parts, the Plant is petri<g ref="char:EOLhyphen"/>fied.
+Now it is certain, that Nature maketh
+u<U+017F>e <U+017F>ometimes of the Petrifying Juyce for
+the producing of the Plant; for it hath been
+ob<U+017F>erved by many, that <hi>Coral</hi> hath grown
+out of the pieces and fragments of Earthen
+Pots. And in the I<U+017F>land called <hi>Tabacco,</hi> near
+<hi>Africa,</hi> which is half <U+017F>wallowed up by the
+Sea, much <hi>Coral</hi> is found, having its Roots
+in pieces of Earthen Pots. Now the rea<U+017F>on
+why <hi>Coral</hi> <U+017F>hould petrifie, and other Plants
+not, is becau<U+017F>e of its peculiar di<U+017F>po<U+017F>ition: As
+al<U+017F>o, becau<U+017F>e naturally there is a Petrifying
+Juyce in it, which forceth the Plant to receive
+a <U+017F>tony form; be<U+017F>ides the peculiar di<U+017F>po<U+017F>ition,
+<pb n="4" facs="tcp:30448:9"/>
+and preparation of it to receive <U+017F>uch a form.
+No rea<U+017F>on can be given for its colour, no
+more then for that of a <hi>Ro<U+017F>e;</hi> for it cannot
+be referred to the fir<U+017F>t or <U+017F>econd qualities, no
+more than the <U+017F>ight of the eye. God hath
+been plea<U+017F>ed to adorn things with <U+017F>uch co<g ref="char:EOLhyphen"/>lours,
+and hath <U+017F>o in<U+017F>erted them into their
+Seeds, as their <hi>Archaeus</hi> can produce none
+other; <hi>Coral</hi> <U+017F>ometimes groweth to the
+height of a man before it be ripe and turned
+Red, it <U+017F>eemeth of <U+017F>everal colours; for as
+many Plants as I have <U+017F>een that were not
+wholly petrified, were all of a Dusky, Green,
+or <U+017F>uch colour as we <U+017F>ee in other Trees; and
+tho<U+017F>e only begun to be Red, that had nothing
+woody in them, as we <U+017F>ee that in Pears and
+Apples, the Red colour is a <U+017F>ign of their ripe<g ref="char:EOLhyphen"/>ne<U+017F>s
+and maturity. When <hi>Coral</hi> is newly
+taken out of the Sea, many impure things
+<U+017F>tick to it outwardly, which being taken of,
+the true colour <U+017F>heweth it <U+017F>elf. There are
+<U+017F>everal <U+017F>orts of <hi>Coral</hi> in re<U+017F>pect of their mat<g ref="char:EOLhyphen"/>ter,
+for <U+017F>ome is <U+017F>oft, other hard, <U+017F>ome <U+017F>olid,
+<U+017F>ome hollow, <U+017F>ome rough, <U+017F>ome poli<U+017F>hed,
+<U+017F>ome porous.</p>
+            <p>When <hi>Coral</hi> is taken out of the Sea, it is
+for the mo<U+017F>t part rough, and then is made
+<U+017F>mooth and poli<U+017F>hed by the Arti<U+017F>ts: There is
+a Black <hi>Coral</hi> found in <hi>Gallicia,</hi> a Province
+<pb n="5" facs="tcp:30448:9"/>
+of <hi>Spain,</hi> and <U+017F>uch another <U+017F>ort of cour<U+017F>e
+one, called <hi>Savalia,</hi> is brought from <hi>Mauri<g ref="char:EOLhyphen"/>tany,</hi>
+having the in<U+017F>ide woody, and the out<g ref="char:EOLhyphen"/><U+017F>ide
+horny, and <U+017F>tony, of a Black, Yellow,
+and Green colour. There is al<U+017F>o a <U+017F>ort of
+White <hi>Coral</hi> found in <hi>Catalonia,</hi> and called
+by the <hi>Spaniards Polo:</hi> This hath no Bark,
+and groweth in the bottom of the Sea, and
+not upon Rocks, as the Red doth. The
+be<U+017F>t <hi>Coral</hi> is now found upon the Coa<U+017F>ts of
+<hi>Tunis</hi> and <hi>Tripoli. Theophra<U+017F>tus</hi> in his Book
+<gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap> reckoneth <hi>Coral</hi> among the preci<g ref="char:EOLhyphen"/>ous
+Stones; and <hi>Orpheus</hi> in his Book <gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap>
+<U+017F>peaketh very much of <hi>Coral.</hi> Before
+I end this Chapter, and <U+017F>peak of the Vir<g ref="char:EOLhyphen"/>tues
+of <hi>Coral,</hi> I will here, in favor of the cu<g ref="char:EOLhyphen"/>rious,
+clear a doubt, and <U+017F>hew an error con<g ref="char:EOLhyphen"/>cerning
+its Nature that hath reigned a great
+while (becau<U+017F>e <hi>Pliny</hi> writeth, that <hi>Coral</hi> while
+it is in the Sea, is as <U+017F>oft as Wax, but a<U+017F><U+017F>oon
+as it cometh to the Air it groweth hard) by
+an Hi<U+017F>tory, taken out of. <hi>Beguinus</hi> own words
+in his <hi>Tyrocinium Chymicum.</hi>
+            </p>
+            <p>Upon this Controver<U+017F>ie, <hi>Iohn Bapti<U+017F>t</hi> of
+<hi>Nicole,</hi> Squire of the City of <hi>Mar<U+017F>eilles,</hi> chief
+Commander for the Fi<U+017F>hing of <hi>Coral</hi> in the
+Kingdom of <hi>Tunis,</hi> hath a<U+017F><U+017F>ured me, That in
+the year One thou<U+017F>and five hundred eighty
+four, being upon the Sea of <hi>Bi<U+017F>erty,</hi> belong<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:30448:10"/>
+to the <U+017F>aid <hi>Tunis,</hi> where the <U+017F>aid Fi<U+017F>hing
+of <hi>Coral</hi> was, and being curious to know
+the Nature of <hi>Coral,</hi> and how it groweth in
+the bottom of the Sea, cau<U+017F>ed a young Man
+to dive into the Sea a hundred fathom deep,
+being tied to a rope of a <U+017F>ufficient length,
+with a weight of five and twenty pounds in
+each hand, to go to the bottom, charging
+him to bring <U+017F>ome <hi>Coral</hi> from the bottom,
+and to ob<U+017F>erve, whether it was hard or <U+017F>oft.
+Being come above Water, he brought a
+Branch of <hi>Coral</hi> in each hand, affirming,
+That it was as hard in the bottom of the Sea,
+as out of it, and that being about eight or
+nine fathoms near the bottom, he felt an ex<g ref="char:EOLhyphen"/>ce<U+017F><U+017F>ive
+cold. The <U+017F>ame <hi>Nicole</hi> not contented
+therewith, as the Nets were coming up, and
+before they could be in the Air, ca<U+017F>t him<U+017F>elf
+into the Sea about one fathom deep, and took
+<U+017F>ome <hi>Coral</hi> <U+017F>ticking to the Nets, which he
+found as hard as when it is in the Air. The
+<U+017F>ame hath been confirmed to be me by the
+Lord of <hi>La Piotier,</hi> a Gentleman of <hi>Lion,</hi>
+who within the<U+017F>e two years returned from
+the <U+017F>aid Fi<U+017F>hing of <hi>Coral.</hi> Be<U+017F>ides this, the
+<U+017F>aid Squire <hi>Nicole</hi> a<U+017F><U+017F>ured me, that in the
+Spring when the <hi>Coral</hi> is plucked up, in the
+breaking of it, there i<U+017F><U+017F>ueth out a liquor like
+unto Milk, which falling upon any Stone,
+<pb n="7" facs="tcp:30448:10"/>
+Wood, Iron, or <U+017F>ome other matter, produceth
+<hi>Coral;</hi> and that he had <U+017F>een in the Cabinet
+of the great Duke at <hi>Pi<U+017F>a,</hi> the Skull of a dead
+Man, upon which was grown in the Sea, a
+great Branch of <hi>Coral;</hi> and an Anchor taken
+out of the Sea, upon which were <U+017F>everal
+Branches of <hi>Coral,</hi> produced by the Juyce of
+<hi>Coral</hi> that fell upon it.</p>
+            <p>Here we mu<U+017F>t rectifie a kind of <U+017F>eeming
+contradiction, which is, when we have cited
+<hi>Ovid</hi> and <hi>Mathiolus,</hi> and <U+017F>aid, That <hi>Coral</hi> was
+<U+017F>oft under Water, and grew hard when it
+came into the Air; and in another place,
+That by the experiment of Squire <hi>Nicole,</hi> it
+was found to be hard under Water; there<g ref="char:EOLhyphen"/>fore
+under<U+017F>tand this only to be <hi>Secundum
+magis &amp; minus,</hi> as of tho<U+017F>e Stones which we
+have <U+017F>aid to be as <U+017F>oft as Chee<U+017F>e in the Earth,
+and then to harden in the Air when digged
+up, for the Rea<U+017F>ons before alledged. For
+though <hi>Coral</hi> may be hard in the bottom of
+the Sea, yet it is nothing <U+017F>o hard as when it
+hath been expo<U+017F>ed a while to the Air; and <U+017F>o
+we perceive it to be in all kind of Trees which
+dry and harden to the Air, when once wean<g ref="char:EOLhyphen"/>ed
+and <U+017F>eparated from their natural <U+017F>ap or
+moi<U+017F>ture, and growing place.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="8" facs="tcp:30448:11"/>
+            <head>CHAP. II.</head>
+            <head type="sub">Of the Nature, Faculties, and virtues
+of <hi>Coral.</hi>
+            </head>
+            <p>ACcording to the Famous <hi>Dio<U+017F>corides</hi> and
+his Learned Commentator <hi>Mathiolus,
+Coral</hi> in his manife<U+017F>t qualities is moderately
+a<U+017F>tringent and cooling; but his <U+017F>pecifick qua<g ref="char:EOLhyphen"/>lities,
+are <U+017F>o many and wonderful, that I
+<U+017F>hould <U+017F>how my <U+017F>elf too prolix and tedious,
+if I would treat of them one by one. There<g ref="char:EOLhyphen"/>fore
+I <U+017F>hall content my <U+017F>elf to lay down the
+chiefe<U+017F>t, and to back them with the Authority
+of <U+017F>everal Learned and Famous Men, and
+<U+017F>hall begin with <hi>An<U+017F>elmus de Booth,</hi> Phy<U+017F>ician
+to the Emperor <hi>Rodolphus</hi> the Second, in his
+Book <hi>De Gemmis &amp; Lapidibus,</hi> wherein he
+<U+017F>aith, That the tincture of <hi>Coral</hi> <U+017F>toppeth the
+immoderate Cour<U+017F>es of Women, both Red
+and White; the Running of the Reins; the
+Spitting of Blood; and cureth all Bloody
+Fluxes, and Gripings of the Guts; expelleth
+all kind of Gravel and Stones, and con<g ref="char:EOLhyphen"/><U+017F>umeth
+the over-growing of the Spleen. <hi>I
+can te<U+017F>tifie of my <U+017F>elf</hi> (<U+017F>aith he) <hi>that being ex<g ref="char:EOLhyphen"/>treamly
+<U+017F>ick of a Pe<U+017F>tilential Feaver, and faint<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="9" facs="tcp:30448:11"/>
+               <hi>every moment, and having been without
+<U+017F>leep four days and four nights; in<U+017F>omuch, that
+all tho<U+017F>e about me, de<U+017F>paired of my life, by
+taking in a Spoon <U+017F>ix drops of the <U+017F>aid Tincture,
+with the decoction of Violets, upon an in<U+017F>tant,
+and as it were miraculou<U+017F>ly, I was cured. For
+a<U+017F><U+017F>oon as I had taken two Spoonfuls of the <U+017F>aid
+Tincture, I felt my Vital Spirits <U+017F>o refre<U+017F>hed,
+and my Intrals <U+017F>o comforted by the gratefulne<U+017F>s
+and efficacy of the <U+017F>aid Remedy; that as if the
+Light had expelled Darkne<U+017F>s, I found manife<U+017F>tly
+the <U+017F>trength of the di<U+017F>ea<U+017F>e abated, and fell into a
+critical Sweat (of which before there was no
+<U+017F>ign.) So that Nature did thru<U+017F>t to the skin a<g ref="char:EOLhyphen"/>bundance
+of Purple Spots, which pre<U+017F>ently being
+obliterated and carried away by the Sweat, in
+a little time I recovered my former health. That
+Tincture</hi> (<U+017F>aith he) <hi>hath the faculty to bring the
+Body to a right temper by a certain Cele<U+017F>tial
+Power, and eradicateth all Di<U+017F>ea<U+017F>es out of the
+Internal Parts, by rea<U+017F>on of the Analogy it
+hath with the Vital Spirits, and the natural
+heat which it augmenteth and <U+017F>trenghtneth,
+and therefore overcometh ea<U+017F>ily the contrary Di<U+017F><g ref="char:EOLhyphen"/>ea<U+017F>es.</hi>
+It cureth the Falling Sickne<U+017F>s in few
+weeks, though one hath had it from his
+youth. It is commended above all again<U+017F>t
+the immoderate Fluxes of Women, either
+White or Red; for it doth <U+017F>tay them <U+017F>o, that
+<pb n="8" facs="tcp:30448:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc><1 page duplicate></desc>
+               </gap>
+               <pb n="9" facs="tcp:30448:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc><1 page duplicate></desc>
+               </gap>
+               <pb n="10" facs="tcp:30448:13"/>
+the Women cannot fall into any inconveni<g ref="char:EOLhyphen"/>ency
+by it. It doth al<U+017F>o <U+017F>top all Fluxes of
+the Belly, and of the Blood from what<U+017F>oever
+part it floweth. It al<U+017F>o <U+017F>toppeth the old Run<g ref="char:EOLhyphen"/>nings
+of the Reins. It is given in the Plague
+with admirable <U+017F>ucce<U+017F>s: Likewi<U+017F>e in the Flux
+and Small Pox, chiefly when they do not come
+out kindly. It is al<U+017F>o excellent again<U+017F>t Me<g ref="char:EOLhyphen"/>lancholy
+and the Tympany. It appea<U+017F>eth the
+Pains of the Eyes, <U+017F>tayeth the Rheum, and
+taketh away the Spots that grow in the
+Eyes.</p>
+            <p>In a word, <hi>Coral</hi> <U+017F>trengthneth the Heart,
+and therefore is a <U+017F>overaign Remedy again<U+017F>t
+the Plague, and all venemous, contagious,
+and malignant Di<U+017F>ea<U+017F>es. It is a certain Anti<g ref="char:EOLhyphen"/>dote
+in the Plague time, if one taketh of the
+<U+017F>aid Tincture in a Morning fa<U+017F>ting, the quan<g ref="char:EOLhyphen"/>tity
+of half a drachm. It hath the <U+017F>ame power
+again<U+017F>t the poi<U+017F>on of <hi>Vitriol,</hi> which is analo<g ref="char:EOLhyphen"/>gal
+to that of Feavers and Agues, cau<U+017F>ing
+Gripings in the Stomach, and the Guts,
+Vomiting, Loo<U+017F>ene<U+017F>s, thickne<U+017F>s and black<g ref="char:EOLhyphen"/>ne<U+017F>s
+of the Tongue, Short-breath, and other
+dangerous Symptoms, which is confirmed
+by <hi>Fore<U+017F>tus, Lib.</hi> 30. <hi>Ob<U+017F>ervat. Med. Ob<U+017F>erva<g ref="char:EOLhyphen"/>tione</hi>
+7. <hi>in Scholio. Arnaldus Villanovanus</hi>
+relateth, That if ten grains of the Tincture
+of <hi>Coral</hi> be given to a Child newly born,
+<pb n="11" facs="tcp:30448:13"/>
+mixed with <U+017F>ome of the Mothers Milk, be<g ref="char:EOLhyphen"/>fore
+the Child hath taken any other Meat or
+Drink, that the <U+017F>aid Child <U+017F>hall never be
+troubled with the Falling-Sickne<U+017F>s; which is
+al<U+017F>o affirmed by <hi>Camillus Leonardus, Lib.</hi> 2.
+<hi>Speculi Lapidum, Litera, c.</hi> Thus far <hi>An<U+017F>el<g ref="char:EOLhyphen"/>mus
+de Booth.</hi>
+            </p>
+            <p>Our <U+017F>econd Author <U+017F>hall be <hi>Crollius,</hi> the
+Prince of <hi>Chymi<U+017F>ts,</hi> who <U+017F>aith this. As <hi>Coral</hi>
+doth wonderfully grow, <U+017F>o the Secrets that
+are in it, are altogether admirable, and its
+Faculties beyond expre<U+017F><U+017F>ion. The virtue of
+its Tincture is <U+017F>uch, that it is able to clean<U+017F>e
+and renew the Blood in <U+017F>uch <U+017F>ort, as to cure
+all Di<U+017F>ea<U+017F>es that comes from the corruption
+thereof, and to re<U+017F>tore health, <U+017F>trength, and
+alacrity. It <U+017F>toppeth all immoderate Fluxes
+in Women, being taken in <hi>Plantain Water;</hi>
+as al<U+017F>o all Lasks and Fluxes of the Belly, as
+Bloody Fluxes, Dy<U+017F>enteries, Diarrhoea's, taken
+in the decoction of the Roots of <hi>Tormentil;</hi>
+all Haemorrhagies, Spitting of Blood, and
+Haemorrhoides, taken in <hi>Plantain Water;</hi>
+clean<U+017F>eth and reneweth the Blood, taken in
+the <hi>Water</hi> of <hi>Fumitory</hi> or <hi>Cichory.</hi> Re<U+017F>i<U+017F>teth
+Putrefaction, <U+017F>trengthneth the Heart, and the
+Vital Spirits, and pre<U+017F>erveth them from Poi<g ref="char:EOLhyphen"/><U+017F>on,
+in <hi>Water</hi> of <hi>Borrage</hi> or <hi>Buglo<U+017F><U+017F>e.</hi> Com<g ref="char:EOLhyphen"/>foreth
+and <U+017F>trengthneth the Stomach, and
+<pb n="12" facs="tcp:30448:14"/>
+the Natural heat in <hi>Mint</hi> or <hi>Penniroyal Water.</hi>
+Removeth all ob<U+017F>tructions, chiefly from the
+Lungs, Liver, and Kidneys, in <hi>Water of Sor<g ref="char:EOLhyphen"/>rel,
+Gra<U+017F>s, Little Centaury, Spleenwort, Liver<g ref="char:EOLhyphen"/>wort.</hi>
+Di<U+017F><U+017F>olveth congealed Blood in <hi>Water
+of Chervil</hi> or <hi>Dai<U+017F>ie.</hi> It cureth ab<U+017F>olutely the
+Fits of the Mother, and the immoderate
+Fluxes of Women, in the <hi>Water of Mother<g ref="char:EOLhyphen"/>wort,
+Balm, Penniroyal.</hi> It cureth the Drop<U+017F>ie,
+Convul<U+017F>ion, Pal<U+017F>ie, Falling-Sickne<U+017F>s, in <hi>Cin<g ref="char:EOLhyphen"/>namon
+Water,</hi> continuing for a while. It
+expelleth the Stone and Gravel in <hi>Saxifrage
+Water,</hi> or that of <hi>Re<U+017F>t-Harrow.</hi> The do<U+017F>e is
+from <U+017F>ix grains or ten, to a <U+017F>cruple or two,
+according to the age of the Patient, and the
+greatne<U+017F>s of the di<U+017F>temper. It cureth Ulcers
+being applied to them, or mixed with Plai<U+017F>ters
+proper for them.</p>
+            <p>The third Author <U+017F>hall be <hi>Joannes Petrus
+Faber,</hi> a famous Phy<U+017F>ician of <hi>Monpelier,</hi> who
+in his Book called <hi>Myrothecium Spagiricum,</hi>
+in the Chapter of <hi>Coral,</hi> <U+017F>peaketh thus. The
+virtues and force of this Secret for the mun<g ref="char:EOLhyphen"/>d<gap reason="illegible: faint" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ying,
+and purifying the Blood in all the
+Body, is <U+017F>uch as it may be given in all <U+017F>ick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" resp="#TECH" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+and di<U+017F>ea<U+017F>es, which proceed from the
+<gap reason="illegible: faint" resp="#TECH" extent="1 word">
+                  <desc><<U+25CA>></desc>
+               </gap> of the Blood, in <U+017F>o much that it
+<gap reason="illegible: faint" resp="#TECH" extent="1 word">
+                  <desc><<U+25CA>></desc>
+               </gap> excellent in the Lepro<U+017F>ie. It <U+017F>tayeth
+<gap reason="illegible: faint" resp="#TECH" extent="2 words">
+                  <desc><<U+25CA><U+25CA>></desc>
+               </gap> Fluxes in Women being taken
+<pb n="13" facs="tcp:30448:14"/>
+in <hi>Plantain Water;</hi> as al<U+017F>o all kinds of Loo<U+017F>e<g ref="char:EOLhyphen"/>ne<U+017F><U+017F>es,
+and other Bloody Fluxes again<U+017F>t Na<g ref="char:EOLhyphen"/>ture.
+It comforteth and <U+017F>trengthneth the
+Heart wonderfully, as al<U+017F>o the Stomach. Re<g ref="char:EOLhyphen"/><U+017F>toreth
+the Natural heat, by rea<U+017F>on of its radi<g ref="char:EOLhyphen"/>cal
+moi<U+017F>ture, which is almo<U+017F>t equal to ours.
+It di<U+017F><U+017F>olveth all Congealed Blood and Scorbu<g ref="char:EOLhyphen"/>tical
+Concretions, therefore al<U+017F>o mo<U+017F>t pro<g ref="char:EOLhyphen"/>fitable
+to tho<U+017F>e that have the Stone and Gra<g ref="char:EOLhyphen"/>vel,
+being drunk in the <hi>Water of Re<U+017F>t-Harrow.</hi>
+It is wonderfully efficacious in all venemous
+Ulcers, and others, if it be mixed with <U+017F>ome
+proper <hi>Bal<U+017F>am,</hi> becau<U+017F>e it mundifieth the
+Blood, and procureth Cicatrization.</p>
+            <p>The fourth Author <U+017F>hall be our worthy
+Countreyman, <hi>Roger Bacon,</hi> who in his Learn<g ref="char:EOLhyphen"/>ed
+Treati<U+017F>e <hi>De Retardanda Senectute,</hi> com<g ref="char:EOLhyphen"/>mendeth
+<hi>Coral</hi> in the<U+017F>e words. That Remedy
+which lieth in the bottom of the Sea, is of a
+wonderful virtue again<U+017F>t the infirmities of
+old age, as experience teacheth us. It is hot
+and dry in the <U+017F>econd degree, as <hi>I<U+017F>aac</hi> affirm<g ref="char:EOLhyphen"/>eth.
+It doth corroborate the Stomach, the
+Sen<U+017F>es, and all the internal parts.</p>
+            <p>The fifth Author <U+017F>hall be the mo<U+017F>t renown<g ref="char:EOLhyphen"/>ed
+<hi>Fernelius,</hi> who <U+017F>peaking of <hi>Coral,</hi> <U+017F>aith
+thus; <hi>Coral</hi> being cold and dry in the <U+017F>econd de<g ref="char:EOLhyphen"/>gree,
+by his A<U+017F>tringent quality <U+017F>trengthneth the
+Stomach, and efficaciou<U+017F>ly <U+017F>toppeth all Bloody
+<pb n="14" facs="tcp:30448:15"/>
+Fluxes, pre<U+017F>erveth the <U+017F>trength of the Heart,
+and fenceth it again<U+017F>t all malignant and pe<U+017F>ti<g ref="char:EOLhyphen"/>lent
+Di<U+017F>ea<U+017F>es. Being taken inwardly, it <U+017F>tay<g ref="char:EOLhyphen"/>eth
+the monethly Cour<U+017F>es of Women, and
+<U+017F>trengthneth the Conception. It hindereth
+Excre<U+017F>cences of Fle<U+017F>h, filleth up the cavity of
+Ulcers, and weareth out the Scars in the Eyes.
+It cooleth the heat of Choler, and <U+017F>tayeth the
+eruptions of it, whether upward or down<g ref="char:EOLhyphen"/>ward.
+It <U+017F>trengthneth the <U+017F>ub<U+017F>tance of the
+Liver, let it never be <U+017F>o loo<U+017F>e.</p>
+            <p>I could in confirmation of the Premi<U+017F><U+017F>es,
+bring the authority of all the be<U+017F>t Phy<U+017F>icians
+in all Ages that have made mention of <hi>Coral,</hi>
+but that I am an Enemy to Prolixity and Re<g ref="char:EOLhyphen"/>petitions.
+The<U+017F>e will <U+017F>erve to <U+017F>atisfie any
+rea<U+017F>onable per<U+017F>on, or el<U+017F>e nothing will.</p>
+            <p>In a word, the Virtues of <hi>Coral</hi> are <U+017F>o great
+and wonderful, that many grave and authen<g ref="char:EOLhyphen"/>tical
+Authors did not <U+017F>tick to <U+017F>ay, That it was
+an Amulet or Charm again<U+017F>t Fearfulne<U+017F>s, Be<g ref="char:EOLhyphen"/>witchings,
+Sorceries, Poy<U+017F>ons, Falling-Sick<g ref="char:EOLhyphen"/>ne<U+017F>s,
+A<U+017F><U+017F>aults of the Devil, Lightnings, Sea<g ref="char:EOLhyphen"/><U+017F>torms,
+and other dangers what<U+017F>oever. There<g ref="char:EOLhyphen"/>fore
+in ancient time it was dedicated to <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi>
+and <hi>Apollo.</hi> But of the<U+017F>e la<U+017F>t qualities, let
+every one believe as much as he thinketh fit<g ref="char:EOLhyphen"/>ting:
+Certain it is, by the te<U+017F>timony of <hi>Pliny,</hi>
+and others, that anciently it was among the
+<pb n="15" facs="tcp:30448:15"/>
+               <hi>Indians</hi> almo<U+017F>t of an equal value with Pearls
+of the <U+017F>ame bigne<U+017F>s. It is al<U+017F>o certain, that
+Red <hi>Coral,</hi> if worn by a Man, hath, and pre<g ref="char:EOLhyphen"/><U+017F>erveth
+its colour better than that which is
+worn by a Woman; perhaps, becau<U+017F>e the
+heat of a Man is greater than that of a Wo<g ref="char:EOLhyphen"/>man;
+and the vapors that exhale out of his
+Body are purer.</p>
+            <p>Moreover, it is an undoubted truth, That
+Red <hi>Coral</hi> will grow pale, blewi<U+017F>h, and ma<g ref="char:EOLhyphen"/>culated
+with <U+017F>everal <U+017F>pots<g ref="char:punc"><U+25AA></g> when it is worn
+by one that is nigh death, or dangerou<U+017F>ly <U+017F>ick,
+and will foretel Di<U+017F>ea<U+017F>es by the changing of
+its colour. This I found true by a <U+017F>ad expe<g ref="char:EOLhyphen"/>rience
+of my own; for having once a Girl
+about Twelve Moneths old that wore a Brace<g ref="char:EOLhyphen"/>let
+of <hi>Coral,</hi> <U+017F>he fell into a Pe<U+017F>tilential Fea<g ref="char:EOLhyphen"/>ver:
+So that when I came home and <U+017F>pied
+the <hi>Coral</hi> quite altered, I began pre<U+017F>ently to
+de<U+017F>pair of her recovery, which I would not
+have done, if I had known then the Tincture
+of <hi>Coral,</hi> as I do now. She lived but two days
+in that ca<U+017F>e. After her death I would have
+taken the Bracelet from her, and tried whe<g ref="char:EOLhyphen"/>ther
+I could have brought it to its former
+colour again; but the Mother would never
+<U+017F>uffer it, but would have it buried with her,
+le<U+017F>t the <U+017F>ight of it <U+017F>hould bring her into re<g ref="char:EOLhyphen"/>membrance
+of her lo<U+017F>s, and <U+017F>o deprived me
+<pb n="14" facs="tcp:30448:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc><1 page duplicate></desc>
+               </gap>
+               <pb n="15" facs="tcp:30448:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc><1 page duplicate></desc>
+               </gap>
+               <pb n="16" facs="tcp:30448:17"/>
+of <U+017F>o ju<U+017F>t a curio<U+017F>ity. Here by the By, Let us
+con<U+017F>ider what affliction it is to Parents to <U+017F>ee
+their young Children <U+017F>ick, without any Re<g ref="char:EOLhyphen"/>medy,
+and not able to expre<U+017F>s their own grie<g ref="char:EOLhyphen"/>vances,
+whereas now a <U+017F>poonful of this Tin<g ref="char:EOLhyphen"/>cture,
+which is plea<U+017F>ant to the ta<U+017F>te, and can
+be no ways hurtful, may pre<U+017F>erve them alive
+to the honor and glory of God, and the <U+017F>atis<g ref="char:EOLhyphen"/>faction,
+and joy of their Parents and Rela<g ref="char:EOLhyphen"/>tions.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="17" facs="tcp:30448:17"/>
+            <head>CHAP. III.</head>
+            <head type="sub">Of the Tincture of <hi>Coral;</hi> and what is
+Tincture.</head>
+            <p>TIncture is an Extract of the Colours ad<g ref="char:EOLhyphen"/>hering
+to mixed Bodies, and of the
+formal qualities thereof. Whence cometh it,
+that Tinctures are <U+017F>ometimes called <hi>Oyls,</hi>
+<U+017F>ometimes <hi>Spirits,</hi> and <U+017F>ometimes <hi>Quinte<g ref="char:EOLhyphen"/><U+017F>cence.</hi>
+In the Extraction of Tinctures, the
+Chymical Arti<U+017F>ts do chiefly labor, that they
+may <U+017F>eparate the formal Virtue of the mixed
+Bodies, in which lieth the faculty of curing
+Di<U+017F>ea<U+017F>es from its proper Matter or Feculent
+Body, which is unprofitable, Terre<U+017F>trial or
+Wateri<U+017F>h; for they draw by Extraction and
+Means of a determinated <hi>Men<U+017F>truum</hi> (for the
+<U+017F>ame <hi>Men<U+017F>truum</hi> is not fit to draw all kinds of
+Tinctures) the Tincture or E<U+017F><U+017F>ence of it,
+which is the mo<U+017F>t <U+017F>ecret and internal <U+017F>ub<U+017F>tance
+that Nature had inclo<U+017F>ed and concealed in the
+Intrals of it, to pre<U+017F>erve it from all external
+injuries and accidents. And after that, they
+draw or ab<U+017F>tract the <hi>Men<U+017F>truum</hi> from it; and
+the Tincture or E<U+017F><U+017F>ence remaineth in the bot<g ref="char:EOLhyphen"/>tom
+of the Ve<U+017F><U+017F>el, in the con<U+017F>i<U+017F>tence of Honey
+<pb n="18" facs="tcp:30448:18"/>
+or Pap, and then it is properly called <hi>Extract.</hi>
+But if it be in a Liquid form joyned with its
+<hi>Men<U+017F>truum,</hi> and repre<U+017F>enting the colour out
+of which it is drawn, then it is properly cal<g ref="char:EOLhyphen"/>led
+<hi>Tincture.</hi> Therefore ob<U+017F>erve that by the
+word Tincture, the <hi>Chymi<U+017F>ts</hi> under<U+017F>tand the
+colours <U+017F>ticking to the E<U+017F><U+017F>ence of the mixed
+Bodies, and to the formal qualities drawn out
+of them.</p>
+            <p>Here we mu<U+017F>t make an exact di<U+017F>tinction,
+between a Di<U+017F><U+017F>olution and an Extraction of
+the Tincture; for in a true Tincture we ex<g ref="char:EOLhyphen"/>tract
+only the formal Virtue of the <U+017F>ubject,
+the ma<U+017F>s and lump of the Body remaining
+whole; but in a di<U+017F><U+017F>olution, the whole com<g ref="char:EOLhyphen"/>pound
+is reduced into minute parts. Hence
+cometh it, that the do<U+017F>e of the Tincture is
+<U+017F>mall, but that of the di<U+017F><U+017F>olution mu<U+017F>t be in
+a greater quantity, becau<U+017F>e it is not <U+017F>o effica<g ref="char:EOLhyphen"/>cious.</p>
+            <p>Ob<U+017F>erve al<U+017F>o, That there is no true Tin<g ref="char:EOLhyphen"/>cture,
+but that which remaineth of the <U+017F>ame
+colour as the mixed Body was, after the <hi>Men<g ref="char:EOLhyphen"/><U+017F>truum</hi>
+is extracted from it. If by this rule
+many Tinctures be examined, it will be ea<U+017F>ily
+known that they are no true Tinctures, but
+that their colour proceedeth from the mix<g ref="char:EOLhyphen"/>ture
+of the <hi>Men<U+017F>truum</hi> with the Body di<U+017F><g ref="char:EOLhyphen"/><U+017F>olved.</p>
+            <p>
+               <pb n="19" facs="tcp:30448:18"/>
+For example, Let any body take of the
+Vulgar Tinctures of <hi>Coral,</hi> if you exhale or
+di<U+017F>til the <hi>Men<U+017F>truum</hi> from them, it will go
+away pure and clear, and that which remain<g ref="char:EOLhyphen"/>eth
+<U+017F>hall not be Red, but <U+017F>hall look either
+like Lime or Salt; whereas, if it were a true
+Tincture, and a Red Sub<U+017F>tance extracted from
+the Body, it <U+017F>hould remain <U+017F>o, though the
+<hi>Men<U+017F>truum</hi> were ab<U+017F>tracted from it. But that
+Tinctures are not always true, but vary accord<g ref="char:EOLhyphen"/>ing
+to their <hi>Men<U+017F>truums,</hi> is evident in that
+<U+017F>everal colours may be extracted out of one
+and the <U+017F>ame thing by <U+017F>everal <hi>Men<U+017F>truums.</hi>
+For example, if you put upon Silver calcined
+with <hi>Mercury</hi> <U+017F>ublimate, the <hi>Spirit of Salt;</hi>
+you <U+017F>hall have a Green colour like an Emerald,
+but if you put upon it the <hi>Spirit of <g ref="char:V"><U+01B2></g>rine</hi> im<g ref="char:EOLhyphen"/>pregnated
+with the <hi>Salt of <g ref="char:V"><U+01B2></g>rine,</hi> it will be
+of a Blew colour. The<U+017F>e contradictions did
+per<U+017F>wade once <hi>Crollius,</hi> an excellent Chymi<U+017F>t,
+when he wrote his Book called <hi>Ba<U+017F>ilica Chy<g ref="char:EOLhyphen"/>mica,</hi>
+That the true Tincture of <hi>Coral</hi> was
+impo<U+017F><U+017F>ible to be had, or at lea<U+017F>t, that it was
+not his fortune ever to <U+017F>ee any. But we <U+017F>hall
+convince him <U+017F>ufficiently of the contrary, and
+as many as <U+017F>hall be of his opinion.</p>
+            <p>Here I cannot wonder enough at many
+Chymi<U+017F>ts and Phy<U+017F>icians of good note, who
+through ignorance, or by hear-<U+017F>ay, for the
+<pb n="20" facs="tcp:30448:19"/>
+obtaining the Tincture of <hi>Coral,</hi> advi<U+017F>e to
+calcine it, that the Tincture may be drawn
+out of it, without con<U+017F>idering that in the
+Calcination the fire burneth and con<U+017F>umeth
+the Tincture, and that Calcination is good
+for nothing but to Extract the Salt of it, which
+al<U+017F>o hath <U+017F>everal Faculties in Phy<U+017F>ick of which
+we <U+017F>hall <U+017F>peak in its proper place. For Cal<g ref="char:EOLhyphen"/>cination
+is the Reduction of a mixed Body
+into a Calx or Lime made by fire, which
+depriveth the <U+017F>aid mixed Body of the hu<g ref="char:EOLhyphen"/>mor
+or moi<U+017F>ture that united the parts toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Now it is time to come to the true Tincture
+of <hi>Coral.</hi> Take therefore (for an experiment)
+half an ounce of the be<U+017F>t <hi>Coral</hi> in Powder,
+put it in a Viol of about half a pint, pour
+upon it <U+017F>ix ounces of our <hi>Men<U+017F>truum,</hi> and <U+017F>top
+the Viol clo<U+017F>e with a Cork, you <U+017F>hall perceive,
+that within four hours the <U+017F>aid <hi>Men<U+017F>truum</hi>
+will be coloured Red, then pour it out, and
+put new upon the <U+017F>ame <hi>Coral,</hi> and <U+017F>o do, <U+017F>o
+often till you <U+017F>hall <U+017F>ee the <hi>Coral</hi> white in the
+bottom of the Gla<U+017F>s, then ab<U+017F>tract the <hi>Men<g ref="char:EOLhyphen"/><U+017F>truum</hi>
+in <hi>Balneo,</hi> in the bottom <U+017F>hall remain
+the true Tincture of <hi>Coral</hi> as Red as Blood,
+and the Body <U+017F>hall remain in the Viol as white
+as Snow: Edulcorate, that is, Wa<U+017F>h the <U+017F>aid
+Tincture from its <hi>Men<U+017F>truum</hi> with <U+017F>ome Cor<g ref="char:EOLhyphen"/>dial
+<pb n="21" facs="tcp:30448:19"/>
+Water, which you <U+017F>hall afterwards Ab<g ref="char:EOLhyphen"/><U+017F>tract
+from the Tincture in <hi>Balneo,</hi> till it be
+almo<U+017F>t dry, then <U+017F>halt thou have the true
+Tincture of <hi>Coral,</hi> mo<U+017F>t efficacious for the a<g ref="char:EOLhyphen"/>forementioned
+Di<U+017F>ea<U+017F>es, being given in <U+017F>ome
+appropriated <hi>Vehiculum,</hi> and fit for the di<U+017F><g ref="char:EOLhyphen"/>temper.
+The do<U+017F>e is from ten drops to twen<g ref="char:EOLhyphen"/>ty,
+or thirty, in two ounces of an appropria<g ref="char:EOLhyphen"/>ted
+Liquor.</p>
+            <p>When you have Extracted the Tincture of
+<hi>Coral,</hi> do not <U+017F>light or throw away the Body
+of <hi>Coral</hi> which remaineth in the Viol, for
+out of it may, by Chymical Art, be Extracted
+the Salt of <hi>Coral;</hi> which in all re<U+017F>pects e<g ref="char:EOLhyphen"/>mulateth
+and cometh very near the Tincture,
+except in the curing of malignant and pe<U+017F>ti<g ref="char:EOLhyphen"/>lential
+Di<U+017F>ea<U+017F>es.</p>
+            <p>I am here much <U+017F>urpri<U+017F>ed at the contra<g ref="char:EOLhyphen"/>dictory
+opinion of <hi>Philibert Guibert,</hi> a famous
+Phy<U+017F>ician of <hi>Paris,</hi> who in <U+017F>everal places of
+his Book, called <hi>The Charitable Phy<U+017F>ician,</hi> ha<g ref="char:EOLhyphen"/>ving
+highly commended the u<U+017F>e of <hi>Venice
+Treacle</hi> again<U+017F>t the Plague, and other ven<gap reason="illegible: faint" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mous
+Di<U+017F>ea<U+017F>es, according to the doctrine of
+the be<U+017F>t Phy<U+017F>icians, doth at la<U+017F>t in his Trea<g ref="char:EOLhyphen"/>ti<U+017F>e
+of the Plague, exclaim again<U+017F>t it as again<U+017F>t
+an infamous Remedy, contrary to the autho<g ref="char:EOLhyphen"/>rity
+of the be<U+017F>t Phy<U+017F>icians, and the con<U+017F>tant
+experience of all Ages, as I have <U+017F>hewed in
+<pb n="22" facs="tcp:30448:20"/>
+my Treati<U+017F>e of the la<U+017F>t Plague <hi>Anno</hi> 1665.
+and in<U+017F>tead of it, <U+017F>ub<U+017F>tituteth two Antidotes
+of his own, which are <U+017F>omething Comical.
+The fir<U+017F>t is, The u<U+017F>e of good Wine; the <U+017F>e<g ref="char:EOLhyphen"/>cond
+is that which he calleth <hi>Electuarium de
+tribus Adverbiis. Cito, longe, tarde.</hi> That is, to
+be gone quickly out of the infected place, to
+go far from it, and to come back as late as
+one can, according to this old Di<U+017F>tich.</p>
+            <q>
+               <l>Haec tria tabificam pellunt Adverbia Pe<U+017F>tem,</l>
+               <l>Mox, longe, tarde, cede, recede, redi.</l>
+            </q>
+            <p>But as we do not deny that Wine is a noble
+Aliment, and a great Cordial, <U+017F>o do we think
+it too weak alone to cure the Plague, as is
+<U+017F>een in many places where people drink no<g ref="char:EOLhyphen"/>thing
+but Wine, and that of the be<U+017F>t: No
+more than his Antidote of the three Adverbs,
+many having met with the Plague in the
+Countrey, which they might have avoided,
+if they had <U+017F>tayed in the City, as I did all the
+while: For I do undertake (with the Grace
+of God) to cure the fierce<U+017F>t Plague with
+<hi>Venice Treacle,</hi> and my Tincture of <hi>Coral.</hi>
+Add to this, that many people are not able to
+go out of Town, either want of means or re<g ref="char:EOLhyphen"/>lations,
+or being incumbred with a numerous
+Fam<gap reason="illegible: faint" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly.</p>
+            <p>
+               <pb n="23" facs="tcp:30448:20"/>
+Before we fini<U+017F>h this Chapter, it will be
+worth the curio<U+017F>ity of the Reader to know
+how to Extract the Salt of <hi>Coral,</hi> which we
+have <U+017F>aid to emulate the Virtues of the Tin<g ref="char:EOLhyphen"/>cture,
+except in the curing of the Plague, and
+malignant Feavers.</p>
+            <p>Take therefore that white Body of <hi>Coral</hi>
+which remaineth in the Viol, after the Ex<g ref="char:EOLhyphen"/>traction
+of the Tincture, wa<U+017F>h it very well
+with fair water, dry it gently upon a <U+017F>oft fire,
+and then pour upon it by degrees Vinegar,
+that hath been di<U+017F>tilled three times, as much as
+will cover it four Fingers above, then dige<U+017F>t
+and di<U+017F><U+017F>olve that together, and after the <U+017F>olu<g ref="char:EOLhyphen"/>tion,
+Ab<U+017F>tract the Vinegar till the <hi>Coral</hi> be
+dry; then wa<U+017F>h the <hi>Coral</hi> with di<U+017F>tilled water,
+to take away the acrimony of the Vinegar;
+after that, evaporate the Water till there re<g ref="char:EOLhyphen"/>maineth
+a Salt as white as Snow, and free
+from all acrimony, which mu<U+017F>t be kept in a
+Gla<U+017F>s clo<U+017F>e <U+017F>topt.</p>
+            <p>Its virtues are mo<U+017F>t excellent, for it purifi<g ref="char:EOLhyphen"/>eth
+the Blood in all the Body, which it re<g ref="char:EOLhyphen"/><U+017F>toreth
+to its former <U+017F>trength. It <U+017F>toppeth
+all Fluxes of the Womb, of the Belly, and of
+the Haemorrhoides. It <U+017F>trengthneth the Heart,
+and the Stomach; it openeth all the ob<U+017F>tructi<g ref="char:EOLhyphen"/>ons
+of the internal parts; it di<U+017F><U+017F>olveth con<g ref="char:EOLhyphen"/>gealed
+Blood. It is mo<U+017F>t excellent in the
+<pb n="24" facs="tcp:30448:21"/>
+Drop<U+017F>ie, Pal<U+017F>ie, Convul<U+017F>ion, the Stone,
+Fits of the Mother. <hi>Crollius</hi> is of the <U+017F>ame
+opinion; for he <U+017F>aith, That it purifieth the
+Blood, and cureth in a <U+017F>hort time all Di<U+017F>ea<U+017F>es
+that proceed from the corruption of it, if it
+be taken in <hi>Cichory</hi> or <hi>Fumitory Water.</hi> To
+<U+017F>top all exce<U+017F><U+017F>ive Fluxes and lo<U+017F>s of Blood, as
+well by Dy<U+017F>enteries and Haemorrhoides, and
+<U+017F>uch like; as Hepatical Fluxes, Lienterical,
+Men<U+017F>trual, Spermatical, Bleeding at the
+No<U+017F>e, Spitting of Blood, being taken in
+<hi>Plantain Water,</hi> or <U+017F>uch like; to re<U+017F>i<U+017F>t pu<g ref="char:EOLhyphen"/>trefaction,
+to <U+017F>trengthen the Brains, the
+Stomach, the Natural heat, and the Vital
+Spirits, and to pre<U+017F>erve the Heart again<U+017F>t all
+poy<U+017F>on; to remove all ob<U+017F>tructions from the
+noble parts, to wit, The Lungs, the Liver,
+and the Kidneys; to di<U+017F><U+017F>olve congealed
+Blood, and to cure the mo<U+017F>t <U+017F>tubborn Fits
+of the Mother, and <U+017F>uperfluities of the
+Monethly Cour<U+017F>es, being taken in the Wa<g ref="char:EOLhyphen"/>ter
+of <hi>Motherwort, Balm,</hi> or <hi>Pennyroyal.</hi>
+See <hi>Crollius</hi> in <hi>Ba<U+017F>ilica Chymica,</hi> and <hi>An<U+017F>el<g ref="char:EOLhyphen"/>mus
+de Booth, cap.</hi> 154. <hi>Lib.</hi> 3. <hi>de Gem<g ref="char:EOLhyphen"/>mis.</hi>
+            </p>
+            <p>In the Drop<U+017F>ie, Pal<U+017F>ie, Falling-Sickne<U+017F>s,
+and Convul<U+017F>ion, this Salt is taken with ad<g ref="char:EOLhyphen"/>mirable
+<U+017F>ucce<U+017F>s in <hi>Cinnamon Water;</hi> and for
+the Stone, in the Water of <hi>Re<U+017F>t-Harrow.</hi> It
+<pb n="25" facs="tcp:30448:21"/>
+may al<U+017F>o be put in <hi>Lozenges,</hi> and be taken in
+<U+017F>tead of common Salt in a boiled Egg, or in
+Broth, or in White Wine.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="26" facs="tcp:30448:22"/>
+            <head>CHAP. IV.</head>
+            <head type="sub">Why in the Curing of Di<U+017F>ea<U+017F>es, we chu<U+017F>e
+rather to make u<U+017F>e of the Tincture of
+<hi>Coral,</hi> then of the whole Body in Sub<g ref="char:EOLhyphen"/>stance
+however prepared.</head>
+            <p>DI<U+017F>ea<U+017F>es never come upon mankind, but
+by a Segregation and Heterogeneity of
+humors; for while the Cra<U+017F>is or Tempera<g ref="char:EOLhyphen"/>ment
+of the Humors, remaineth whole, Na<g ref="char:EOLhyphen"/>ture
+con<U+017F>tantly performeth her Functions, the
+Spirits play their part, and the oeconomy of
+the Body remaineth intire; but a<U+017F><U+017F>oon as the
+Humors begin to <U+017F>eparate them<U+017F>elves, and to
+jar one again<U+017F>t another, the Spirits are <U+017F>cat<g ref="char:EOLhyphen"/>tered,
+the Humors putrifie; and if there be
+any malignity in the Air, it introduceth it<g ref="char:EOLhyphen"/><U+017F>elf
+immediately into that <hi>Chaos.</hi>
+            </p>
+            <p>Now the<U+017F>e Indications teach Phy<U+017F>icians,
+fir<U+017F>t, to expel the malignity as the mo<U+017F>t pre<U+017F>s<g ref="char:EOLhyphen"/>ing;
+<U+017F>econdly, to <U+017F>ettle the Spirits; thirdly,
+to unite again the Humors. Now the malig<g ref="char:EOLhyphen"/>nity
+being aerial, cannot be expelled, but by
+formal Qualities, neither can the Spirits be
+<U+017F>ettled but by the <U+017F>ame; which both being
+done, the third, which is the union of the
+<pb n="27" facs="tcp:30448:22"/>
+Humors, will of nece<U+017F><U+017F>ity follow; for the
+Cau<U+017F>e being removed, the Effect in<U+017F>ueth. The<U+017F>e
+things cannot ea<U+017F>ily be done by a Body in
+Sub<U+017F>tance, (<U+017F>uppo<U+017F>e <hi>Coral</hi> in Powder) for in
+that Body the three Principles of Nature, to
+wit, <hi>Salt, Sulphur,</hi> and <hi>Mercury,</hi> remain
+united together, and <U+017F>o adhere one to an<g ref="char:EOLhyphen"/>other;
+that although nature may dige<U+017F>t them,
+yet will they not <U+017F>eparate them<U+017F>elves to do
+the Body any determinate good, but will
+either undige<U+017F>ted or dige<U+017F>ted, go all along and
+keep company together; whereas, when they
+are <U+017F>eparated one from the other, they work
+determinately by the help of a proper <hi>Vehi<g ref="char:EOLhyphen"/>culum,</hi>
+upon the di<U+017F>ea<U+017F>e aimed at. For though
+all the parts (for example of <hi>Coral</hi>) be friend<g ref="char:EOLhyphen"/>ly
+to an Humane Body, yet are they more
+friendly one to another, and will not <U+017F>epa<g ref="char:EOLhyphen"/>rate
+them<U+017F>elves to do a Body good, but will
+rather <U+017F>tick clo<U+017F>e and peri<U+017F>h together, to the
+illu<U+017F>ion of the Phy<U+017F>ician, and the delu<U+017F>ion of
+the Patient. The <U+017F>econd Rea<U+017F>on is, That when
+the Remedy is given in Sub<U+017F>tance, Nature is
+put to the work and task of dige<U+017F>ting it, and
+in the mean time the di<U+017F>ea<U+017F>e (chiefly if it be
+aerial) getteth footing, the <U+017F>trength declineth,
+and <U+017F>o many times the Scales weigh down;
+whereas, if it be given <U+017F>eparate (<U+017F>uppo<U+017F>e the
+Tincture of <hi>Coral</hi>) Nature pre<U+017F>ently layeth
+<pb n="28" facs="tcp:30448:23"/>
+hold on it, cheareth up the heart with it,
+who pre<U+017F>ently as the Sun of the Microco<U+017F>m
+<U+017F>endeth it, by way of irradiation, to the part
+affected, and <U+017F>o relieveth the Patient.</p>
+            <p>Another inconveniency ari<U+017F>eth from giving
+Remedies in Sub<U+017F>tance, which is, that when
+the thinne<U+017F>t part of the Remedy, is di<U+017F><U+017F>olved
+in the Body, the thicke<U+017F>t, which the <hi>Latins</hi>
+call <hi>Faere</hi> or <hi>Cra<U+017F><U+017F>amentum,</hi> remains in the
+way, and many times cau<U+017F>eth <U+017F>tubborn ob<g ref="char:EOLhyphen"/><U+017F>tructions,
+and other accidents, who<U+017F>e Cau<U+017F>es
+being unknown to the Phy<U+017F>ician, becau<U+017F>e un<g ref="char:EOLhyphen"/><U+017F>u<U+017F>pected,
+produce many times <U+017F>everal ac<g ref="char:EOLhyphen"/>cidents
+wor<U+017F>e than the Di<U+017F>ea<U+017F>e that was in<g ref="char:EOLhyphen"/>tended
+at fir<U+017F>t to be cured. This is to be daily
+ob<U+017F>erved in tho<U+017F>e that u<U+017F>e gro<U+017F>s and f;aeculent
+Means, and by the Rea<U+017F>on we have alledged
+before, fall into <U+017F>toppages and ob<U+017F>tructions,
+and con<U+017F>equently into divers Di<U+017F>ea<U+017F>es hard to
+be cured.</p>
+            <p>From this Rea<U+017F>on it is, that Spirits and
+E<U+017F><U+017F>ences <U+017F>eparated and <U+017F>ublimated, work
+more powerfully and efficaciou<U+017F>ly, than when
+they are wrapt and involved in their whole
+Bodies, <gap reason="illegible: faint" resp="#TECH" extent="2 words">
+                  <desc><<U+25CA><U+25CA>></desc>
+               </gap> whom they cannot ea<U+017F>ily ex<g ref="char:EOLhyphen"/>tricate
+them<U+017F>elves, and <U+017F>hew forth their
+power and virtue, as you may ob<U+017F>erve in
+Spirit of Wine well rectified, one <U+017F>poonful
+of which <U+017F>hall work more effect then a quart
+<pb n="29" facs="tcp:30448:23"/>
+of the common one, out of which it is ex<g ref="char:EOLhyphen"/>tracted.
+The <U+017F>ame is of Vinegar, which, if
+it be pure and good, <U+017F>hall in the quantity of
+a <U+017F>poonful, in Sawces, Salets, or other con<g ref="char:EOLhyphen"/>diments,
+do more effect than a quart of the
+common one, and with le<U+017F>s charge and more
+gratefulne<U+017F>s; becau<U+017F>e its efficacy and virtue
+before was dulled, allayed, and made ineffica<g ref="char:EOLhyphen"/>cious
+by the faeces, phlegm, and other impu<g ref="char:EOLhyphen"/>rities
+that adhered to it. Upon this Rea<U+017F>on,
+the Remedies that are to be admini<U+017F>tred to
+Humane Bodies, are to be pure, rectified and
+exalted: If you well con<U+017F>ider the effect you
+expect from them, and the dignity of the
+<U+017F>ubject with whom you have to do. There<g ref="char:EOLhyphen"/>fore
+the be<U+017F>t Chymi<U+017F>ts in all Ages have endea<g ref="char:EOLhyphen"/>vored
+and labored to make their Remedies
+as pure and defaecated as po<U+017F><U+017F>ibly they could,
+that the effect aimed at, might follow, and
+the Humane Bodies excellency <U+017F>hould not be
+violated, as it is not, when in the preparation
+of the Remedies, the pure is <U+017F>eparated from
+the impure, the u<U+017F>eful from the unprofitable,
+the <U+017F>piritual from the corporeal, and the
+cordial from the poy<U+017F>on: And thus they do
+not lie heavy upon the Stomach, they beget
+no impurities, cau<U+017F>e no new ob<U+017F>tructions,
+but immediately fight again<U+017F>t the Di<U+017F>ea<U+017F>es,
+and overcome them. Thus, Beer well <U+017F>ettled
+<pb n="30" facs="tcp:30448:24"/>
+is whole<U+017F>omer than new; thus Wine <U+017F>epara<g ref="char:EOLhyphen"/>ted
+from its Tartar, is better for the ta<U+017F>te, and
+for the health, then when it is newly extract<g ref="char:EOLhyphen"/>ed
+from the Grape; thus the Meats we eat,
+being <U+017F>eparated by Nature from their Excre<g ref="char:EOLhyphen"/>ments,
+after many light concoctions and <U+017F>e<g ref="char:EOLhyphen"/>parations
+of Excrements in the Liver, and
+in the Veins, are at la<U+017F>t made fitter for the
+nouri<U+017F>hment of the parts. Thus, <hi>Cinnamon
+Water</hi> <U+017F>hall <U+017F>ooner and more efficaciou<U+017F>ly
+comfort the Heart, than <hi>Cinnamon</hi> it <U+017F>elf in
+Sub<U+017F>tance; thus, a few drops of <hi>Oyl of An<g ref="char:EOLhyphen"/>ni<U+017F>eed</hi>
+<U+017F>hall work more effectually then many
+Seeds, and thus of the re<U+017F>t. Whereby you
+may <U+017F>ee that Remedies well prepared and
+purified, are extraordinary efficacious for the
+cure of the wor<U+017F>e Di<U+017F>ea<U+017F>es; as the Falling<g ref="char:EOLhyphen"/><U+017F>ickne<U+017F>s,
+the Convul<U+017F>ion, the Drop<U+017F>ie, the
+<gap reason="illegible: faint" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uartan Ague, the Gout, and other Di<U+017F>ea<U+017F>es
+commonly deemed incurable; and that with
+all <U+017F>afety diligence, and alacrity, imitating
+Nature in this, which doth not <U+017F>end to the
+parts for their nouri<U+017F>hment the Meats as they
+are raw and whole, but altereth them in the
+Stomach, dige<U+017F>teth and de<U+017F>troyeth them, and
+in the Liver <U+017F>eparateth the pure<U+017F>t from the
+Excrements.</p>
+            <p>Now concerning the penetration of the
+Virtue of the Tincture of <hi>Coral,</hi> to the re<g ref="char:EOLhyphen"/>mote<U+017F>t
+<pb n="31" facs="tcp:30448:24"/>
+parts, for the Curing of tho<U+017F>e de<U+017F>pe<g ref="char:EOLhyphen"/>rate
+Di<U+017F>ea<U+017F>es, we have mentioned, as Falling<g ref="char:EOLhyphen"/><U+017F>ickne<U+017F>s,
+Convul<U+017F>ion, Gout, Pox, Bleeding
+out of any part of the Body, <hi>&amp;c.</hi> Con<U+017F>ider
+how the Milk of a Nur<U+017F>e that hath taken
+<hi>Rheubarb,</hi> is able to purge a Suckling-Infant,
+<hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="32" facs="tcp:30448:25"/>
+            <head type="sub">How the Tincture of <hi>Coral</hi> worketh upon
+Di<U+017F>ea<U+017F>es.</head>
+            <p>BUt that we may make this obvious to the
+meane<U+017F>t capacities, we will lay here open
+the mo<U+017F>t <U+017F>ecret Foundations of Phy<U+017F>ick, to
+wit, The Actinoboli<U+017F>m of Natural things,
+which is no where el<U+017F>e <U+017F>o clearly to be <U+017F>een as
+in Medicinal ones; and this is twofold, either
+to life or to death. Which that you may un<g ref="char:EOLhyphen"/>der<U+017F>tand,
+you mu<U+017F>t ob<U+017F>erve, That as all things
+were created for Mans <U+017F>ake, even <U+017F>o there
+was given to every one a particular virtue by
+which Man might be pre<U+017F>erved: For he that
+intendeth the End, intendeth al<U+017F>o the Means
+to attain it, as are the Virtues of Natural
+things. Seeing then that there is no Member
+in an Humane Body, but hath its proper and
+peculiar infirmities, the mo<U+017F>t High hath pro<g ref="char:EOLhyphen"/>vided
+Remedies again<U+017F>t all them; <U+017F>eeing al<U+017F>o
+that there be Members hidden and concealed
+in the mo<U+017F>t retired places of the Body, where
+there was no acce<U+017F>s for Herbs and Plants to
+come to. He hath given them like as it were
+Beams of Light, <U+017F>preding them<U+017F>elves round
+like tho<U+017F>e of the Sun, which pa<U+017F><U+017F>ing through
+all the Body, do by their Actinoboli<U+017F>m or
+<pb n="33" facs="tcp:30448:25"/>
+Irradiation, penetrate to that Member which
+is corre<U+017F>pondent to them, and hath need of
+their Faculties and Virtues. Hence cometh,
+that the Remedies having <U+017F>pred the Beams of
+their Virtues, go directly to that Member
+which is analogal and corre<U+017F>pondent with
+them, and <U+017F>trengthen and comfort it. Thus
+all Cordials by their Actinoboli<U+017F>m, do not
+meddle with the Liver, Brains, or Spleen;
+but with the Heart.</p>
+            <p>The Hepatical Remedies by their Actino<g ref="char:EOLhyphen"/>boli<U+017F>m,
+do not comfort the Kidneys or the
+Lungs, but the Liver: Thus, the Diureticks
+meddle not with the Liver, Heart, or Brains,
+but with the emulgent Veins, and the Blad<g ref="char:EOLhyphen"/>der.
+Thus, the Actinoboli<U+017F>m of the Cathar<g ref="char:EOLhyphen"/>ticks
+and Diaphoreticks, gather together into
+the Intrals, all the Choler lurking in the Body,
+and from thence carry it away as a <U+017F>uperfluous
+and noxious thing.</p>
+            <p>Hence it is manife<U+017F>t, by what Rea<U+017F>on the
+compounded Medicines, indowed with divers
+qualities, work upon the Body unconfu<U+017F>ed<g ref="char:EOLhyphen"/>ly,
+and are no hinderance one to another, no
+more than the Suns Beams are among them<g ref="char:EOLhyphen"/><U+017F>elves,
+as it is demon<U+017F>trable in Mathematicks.
+For <U+017F>eeing that the Specifick Virtues of each
+Medicines which enter into the Compo<U+017F>ition,
+remain in it after the lo<U+017F>s of their fir<U+017F>t qua<g ref="char:EOLhyphen"/>lities,
+<pb n="34" facs="tcp:30448:26"/>
+when they are received in the Stomach,
+as in a Natural place, every kind, without
+mixing one with another, and confounding
+their Beams, tends to that part to which it is
+affected, and hath corre<U+017F>pondency with, and
+with their Actinoboli<U+017F>m, do wonderfully
+<U+017F>trengthen and comfort it. Whence cometh,
+that all the Members being comforted, the
+Natural heat mu<U+017F>t al<U+017F>o of nece<U+017F><U+017F>ity be <U+017F>trength<g ref="char:EOLhyphen"/>ned;
+and the more it is, the le<U+017F>s power will
+the Di<U+017F>ea<U+017F>e have; in<U+017F>omuch, that we may
+imagine in Phy<U+017F>ick as many Centers of Vir<g ref="char:EOLhyphen"/>tues
+as there be Individuals that compound
+it; and if there be many Cordials mixed
+together, they all <U+017F>hall ca<U+017F>t their Beams upon
+the Heart: Tho<U+017F>e Herbs that have relation to
+the Lungs, <U+017F>hall work that way, and the He<g ref="char:EOLhyphen"/>patical
+ones, <U+017F>hall all tend to comfort the
+Liver. And thus by the Aggregation of <U+017F>o
+many Virtues, the Body mu<U+017F>t of nece<U+017F><U+017F>ity
+prevail again<U+017F>t the Di<U+017F>ea<U+017F>e: So contrariwi<U+017F>e,
+that Antipathetical Actinoboli<U+017F>m which pro<g ref="char:EOLhyphen"/>ceedeth
+from poy<U+017F>ons, and poy<U+017F>onous things,
+a<U+017F><U+017F>oon as it is got down into the Stomach,
+doth fir<U+017F>t attack the Heart, as the fortre<U+017F>s of
+the Body. Thus the Mineral Poy<U+017F>ons, as,
+<hi>Ar<U+017F>enick, Orpine, Ochra,</hi> and the Poy<U+017F>ons of
+Serpents, by their radiation, infect the next
+Blood, and that the next, and <U+017F>o con<U+017F>equent<g ref="char:EOLhyphen"/>ly,
+<pb n="35" facs="tcp:30448:26"/>
+till it hath reached to the Heart. Whence
+if it be not expelled by the Antactinoboli<U+017F>m
+of <U+017F>ome counterpoy<U+017F>on it bringeth de<U+017F>tructi<g ref="char:EOLhyphen"/>on
+to the party: Be<U+017F>ides that, every Member
+hath its peculiar Poy<U+017F>ons; for <U+017F>ome do not
+attack the Heart immediately, but the Lungs.
+As, that <hi>Zoophyte,</hi> called <hi>Pulmo Marinus,</hi>
+which being eaten, ulcerateth the Lungs, and
+bringeth the party into a <U+017F>low Con<U+017F>umption.
+The <hi>Sardonian Smallage,</hi> as al<U+017F>o that In<U+017F>ect
+called <hi>Tarantola,</hi> invading the S<gap reason="illegible: faint" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ats of the
+Spirits, and the Arteries and Mu<U+017F>cles, pro<g ref="char:EOLhyphen"/>voketh
+a Man to laughing and dancing. The
+biting of the Serpent called <hi>Dyp<U+017F>as,</hi> as <U+017F>oon as
+it beginneth to diffu<U+017F>e, doth by its Radiation
+bring the Liver into Putrefraction. The
+biting of a Mad-Dog giveth to a Man the
+Dogs manners; for he continually barketh,
+biteth, and feareth Water. The biting of a
+Mad-Cat, imparteth the Cats manners. <hi>Sken<g ref="char:EOLhyphen"/>kius</hi>
+relateth of a Maid that had eaten of a
+Cats Brains, and did perfectly imitate a Cats
+manners, expre<U+017F><U+017F>ing its voice, and hunting
+after Mice with her crooked Fingers and
+Nails. The Poy<U+017F>on of an A<U+017F>p being an ene<g ref="char:EOLhyphen"/>my
+to the Nerves, doth by its Radiation cau<U+017F>e
+a <U+017F>udden lack of Sen<U+017F>e in all the Limbs which
+it corrupteth. The biting of the Serpent
+(called for that rea<U+017F>on <hi>Haemorrhois</hi>) by its
+<pb n="36" facs="tcp:30448:27"/>
+Radiation turneth all the Humors of the
+Body into Blood, as <hi>Ge<U+017F>nerus</hi> witne<U+017F><U+017F>eth, <hi>Lib.</hi>
+5. <hi>Hi<U+017F>t. Anim.</hi> Which is confirmed by <hi>Lu<g ref="char:EOLhyphen"/>cretius</hi>
+in his Ninth Book, by the<U+017F>e excellent
+Ver<U+017F>es.</p>
+            <q>
+               <l>Impre<U+017F><U+017F>it dentes Haemorrhois a<U+017F>pera <hi>Tullo,</hi>
+               </l>
+               <l>Magnanimo juveni miratorique <hi>Catonis:</hi>
+               </l>
+               <l>
+                  <g ref="char:V"><U+01B2></g>tque <U+017F>olet pariter totis <U+017F>e effundere venis</l>
+               <l>
+                  <hi>Corycii</hi> pre<U+017F><U+017F>ura croci: Sic omnia membra</l>
+               <l>Emi<U+017F>ere <U+017F>imul rutilum pro <U+017F>anguine virus.</l>
+               <l>Sanguis erant lachrymae: Quaecumque foramina<g ref="char:EOLhyphen"/>novit</l>
+               <l>Humor, ab iis largus manat cruor: Ora redun<g ref="char:EOLhyphen"/>dant</l>
+               <l>Et patulae nares, <U+017F>udor rubet, omnia plenis,</l>
+               <l>Membra fluunt venis: Totum e<U+017F>t pro vulnere cor<g ref="char:EOLhyphen"/>pus.</l>
+            </q>
+            <p>We may <U+017F>ee by the<U+017F>e and <U+017F>everal other Ex<g ref="char:EOLhyphen"/>periments,
+which I omit for brevities <U+017F>ake,
+that the <U+017F>everal Members and Parts of the
+Body have their <U+017F>everal Sub<U+017F>tances, which do
+not work by their proper Poy<U+017F>ons, but by the
+Diffu<U+017F>ion of their Radiant Virtues; which
+cannot be remedied, but by the Radiation of
+contrary Sub<U+017F>tances which de<U+017F>troy tho<U+017F>e ve<g ref="char:EOLhyphen"/>nemous
+qualities, even as the <U+017F>hadows and
+darkne<U+017F><U+017F>es cannot be de<U+017F>troyed but by the
+<pb n="37" facs="tcp:30448:27"/>
+Radiation of Light. From all the<U+017F>e things it
+is evident, that there is nothing in Nature
+without that virtue of Radiation, in<U+017F>erted
+by the Author of Nature, for tho<U+017F>e ends be<U+017F>t
+known to him<U+017F>elf, and in imitation of the
+Light, in<U+017F>omuch, that the Judicious Reader,
+by this Doctrine of <hi>Actinoboli<U+017F>ms,</hi> and that of
+<hi>Magneti<U+017F>ms,</hi> may as with two Wings <U+017F>oar to
+the highe<U+017F>t knowledge of Natural things.
+He that will be further <U+017F>atisfied in examples
+of that nature, let him read <hi>Skenkius de
+Venenis.</hi>
+            </p>
+            <p>To the<U+017F>e mu<U+017F>t be added what we have
+<U+017F>aid before, to wit, That the Specifick Vir<g ref="char:EOLhyphen"/>tues
+of each Medicine that enters into a com<g ref="char:EOLhyphen"/>po<U+017F>ition,
+remain in it after the lo<U+017F>s of their
+fir<U+017F>t qualities which may be proved by this
+Experiment.</p>
+            <p>Take <hi>Nettles,</hi> dry them, and burn them
+to a<U+017F>hes, make Lees of tho<U+017F>e a<U+017F>hes; expo<U+017F>e
+the Lees in the night to the Air, till it be
+covered with an Icy thin Skin, and you <U+017F>hall
+<U+017F>ee in that Skin the perfect figure of a <hi>Nettle,</hi>
+with the <U+017F>tretching of its fibers and jagged
+Leaves, as if it were a Natural one; and if
+you look upon it with a Magnifying Gla<U+017F>s,
+you <U+017F>hall perceive with admiration all the
+<gap reason="illegible: in gutter" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igure of the <hi>Nettle,</hi> grown out of <U+017F>mall and
+<gap reason="illegible: in gutter" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmo<U+017F>t infinite number of <U+017F>mall Cellules. Th
+<pb n="38" facs="tcp:30448:28"/>
+<U+017F>ame will happen in any other Plant, to <U+017F>hew
+that no Seed can be <U+017F>o exactly mixed with
+other things, but it will retain and affect
+<U+017F>till its own Nature. All this that we have
+<U+017F>aid, tendeth to <U+017F>hew how <hi>Coral</hi> bringeth to
+pa<U+017F>s all tho<U+017F>e wonderful Virtues we have at<g ref="char:EOLhyphen"/>tributed
+to it. Tho<U+017F>e that <U+017F>hall de<U+017F>ire to be
+better <U+017F>atisfied in this Doctrine of Actinobo<g ref="char:EOLhyphen"/>li<U+017F>m
+and Radiation, let them <U+017F>eriou<U+017F>ly medi<g ref="char:EOLhyphen"/>tate
+the Pla<U+017F>tical Virtue of all Seeds, in which,
+being <U+017F>eated in the ab<U+017F>tru<U+017F>e<U+017F>t parts of the
+Body, doth without any tools or noi<U+017F>e,
+produce a work <U+017F>o wonderful in variety and
+comline<U+017F>s of Parts, and that, out of a rough
+and inform matter, in which there is no di<g ref="char:EOLhyphen"/><U+017F>tinction
+of parts, nor variety that may be
+ob<U+017F>erved by the Sen<U+017F>es. For we <U+017F>ee that in
+the Seed, without any appearance lieth and
+lurketh the whole Tree, with the Roots, the
+Body, the Boughs, the Leaves, and the Fruits.
+Out of one Corn of Wheat, proceedeth the
+Root, the Stalk, the Ear, and the Corn. In
+an Egg, which is the Seed of Birds, lurketh
+the whole Bird, with all, and every one of its
+Limbs, and all the differences of its colours.
+In the Seed lieth the Body of the Animals
+with all its Limbs, the Heart, the Brains, the
+Lungs, the Liver, the Spleen, the Stomach,
+the Kidneys, the Bladder, the Nerves, Ten<g ref="char:EOLhyphen"/>dons,
+<pb n="39" facs="tcp:30448:28"/>
+Mu<U+017F>cles, Veins, Arteries, <hi>&amp;c.</hi> Every
+one of which hath its proper and certain
+figure, its colour, and proprieties. Who <U+017F>e<g ref="char:EOLhyphen"/>vereth
+<U+017F>o many various things hidden in an
+Homogeneal Body, who <U+017F>eparateth an uni<g ref="char:EOLhyphen"/>form
+Matter into Bones, Humors, Fle<U+017F>h,
+Gri<U+017F>tles? <hi>&amp;c.</hi> None other certainly, but that
+Pla<U+017F>tical Virtue which the Almighty hath
+in<U+017F>erted into all things that were to be pro<g ref="char:EOLhyphen"/>pagated
+by Generation. This Virtue giveth
+to every Limb its due <U+017F>cituation, colour, figure,
+proportion, and quality: By its workman<U+017F>hip
+the Body is hollowed into <U+017F>o many Pipes,
+Chanels, Pa<U+017F><U+017F>ages, and Meanders. There<g ref="char:EOLhyphen"/>fore,
+we <U+017F>uppo<U+017F>e, that the <U+017F>ame Pla<U+017F>tical Vir<g ref="char:EOLhyphen"/>tue,
+is diffu<U+017F>ed in all the parts of the Seed:
+So that it is all in all, and all in every part of
+the Seed.</p>
+            <p>The rea<U+017F>on is, That the Productions are
+<U+017F>ometimes but one, and <U+017F>ometimes many;
+and that the Production that cometh from
+one part of the Seed, is no le<U+017F>s perfect than
+that which cometh from the whole: And
+finally, that there is no confu<U+017F>ion nor inor<g ref="char:EOLhyphen"/>dination
+of parts, which of nece<U+017F><U+017F>ity <U+017F>hould
+happen, if it were not uniform with the
+Subject; for if one part of the Seed were
+taken away, one part of the Production
+<U+017F>hould al<U+017F>o be wanting. And thus <U+017F>hould
+<pb n="40" facs="tcp:30448:29"/>
+happen a Confu<U+017F>ion in the Figure by the
+tran<U+017F>po<U+017F>ition of the parts: And although
+the Seed, in order to the Sen<U+017F>es, <U+017F>eem to have
+no di<U+017F>tinct and heterogeneal parts; never<g ref="char:EOLhyphen"/>thele<U+017F>s,
+being con<U+017F>idered in it <U+017F>elf, it hath:
+Seeing that it is not a <U+017F>ingle, but a Body com<g ref="char:EOLhyphen"/>pounded
+of many; for that part of the Pla<g ref="char:EOLhyphen"/><U+017F>tick
+Virtue which frameth the Brains, <U+017F>hall
+not frame the Heart or the Liver; and that
+part which hath framed the Bones, <U+017F>hall not
+<U+017F>tretch the Membranes, or di<U+017F>po<U+017F>e the Guts
+into a winding compa<U+017F>s. The only difficulty
+is, Why that Pla<U+017F>tick Virtue, which is <U+017F>o
+confu<U+017F>edly mixed, yet, worketh without con<g ref="char:EOLhyphen"/>fu<U+017F>ion,
+and di<U+017F>po<U+017F>eth of all things with an
+admirable order, and as the Greeks call it
+<gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap>.</p>
+            <p>But this concerning not our Subject at
+pre<U+017F>ent, we pa<U+017F>s it over, being contented to
+have <U+017F>tirred up the curious Reader to the Me<g ref="char:EOLhyphen"/>ditation
+and Study of the <hi>Magneti<U+017F>ms</hi> and
+<hi>Actinoboli<U+017F>ms,</hi> in which he <U+017F>hall find matter
+enough to <U+017F>atisfie him<U+017F>elf in the proce<U+017F>s of
+Nature, and in the admiration and love of
+the Creator. But this digre<U+017F><U+017F>ion hath pa<U+017F><U+017F>ed
+a little already the bounds of our Subject, let
+us go back from whence we came.</p>
+            <p>We conclude then, That the Tincture of
+<hi>Coral</hi> being <U+017F>ep<gap reason="illegible: missing" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rated from the Body of it;
+<pb n="41" facs="tcp:30448:29"/>
+the pure from the impure; the formal from
+the material; the Cele<U+017F>tial from the Terre<g ref="char:EOLhyphen"/><U+017F>trial,
+it worketh by its A<gap reason="illegible: blotted" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inoboli<U+017F>m or Ra<g ref="char:EOLhyphen"/>diation,
+and its Magneti<U+017F>m; by which it is
+Analogal to the Heart, the Fountain of Life,
+tho<U+017F>e wonderful Effects we have made men<g ref="char:EOLhyphen"/>tion
+of, we will de<U+017F>cend to <U+017F>ome particular
+In<U+017F>tances.</p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="42" facs="tcp:30448:30"/>
+            <head>CHAP. VI.</head>
+            <head type="sub">Of the Virtues of the Tincture of <hi>Coral,</hi>
+in the Curing of all Malignant and
+Pe<U+017F>tilential Feavers.</head>
+            <p>WE give this in<U+017F>tance fir<U+017F>t, as the mo<U+017F>t
+con<U+017F>iderable, and of greate<U+017F>t concern<g ref="char:EOLhyphen"/>ment.
+The<U+017F>e Feavers under the notion and
+name of a Cold, having de<U+017F>troyed <U+017F>o many of
+late, that a Body cannot without grief, and a
+certain horror, read the increa<U+017F>e of the Bill of
+Mortality upon this particular point, while
+the Patients flatter them<U+017F>elves that it is no<g ref="char:EOLhyphen"/>thing
+but a Cold; and the Phy<U+017F>icians, either
+by ignorance, wilfulne<U+017F>s, or mutual Envy,
+pre<U+017F>cribe Bleeding, Purging, Bli<U+017F>tering, and
+<U+017F>uch other dangerous and prepo<U+017F>terous
+means; which though they may <U+017F>ometimes
+be u<U+017F>ed in other Feavers, yet in this are they
+Mortal.</p>
+            <p>As fir<U+017F>t for Bleeding, it hath always been
+condemned by the mo<U+017F>t judicious in Malig<g ref="char:EOLhyphen"/>nant
+and Pe<U+017F>tilential Di<U+017F>ea<U+017F>es, by rea<U+017F>on that
+it weakneth Nature, by exhau<U+017F>ting the Blood
+wherein the Life con<U+017F>i<U+017F>teth, by dimini<U+017F>hing
+the Spirits which are the tie of the Soul with
+<pb n="43" facs="tcp:30448:30"/>
+the Body, and by <U+017F>uffering the venemous
+quality to rage the more by <U+017F>ub<U+017F>tracting that
+<U+017F>weet and Natural Juyce, which was rather
+to be incouraged for the taming and allaying
+of it.</p>
+            <p>Purging is neither to be admitted, unle<U+017F>s
+there be an extraordinary fulne<U+017F>s of Humors,
+it being <U+017F>ufficient to keep the Body <U+017F>oluble;
+as al<U+017F>o, becau<U+017F>e in tho<U+017F>e Feavers there is com<g ref="char:EOLhyphen"/>monly
+a perturbation of Humors, which Purg<g ref="char:EOLhyphen"/>ing
+cannot <U+017F>egregate, till they be perfectly
+concocted, and appear <U+017F>o by the Urines, and
+the <U+017F>lacking of the bad Symptoms. <hi>Concocta
+medicari oportet non cruda,</hi> <U+017F>aith <hi>Hippocrates.</hi>
+            </p>
+            <p>As little <U+017F>ignificant as the<U+017F>e, is the new way
+they go about by Bli<U+017F>tering; for whereas this
+Pe<U+017F>tilential Feaver hath its <U+017F>eat in the Spirits,
+what communion is there between their Ma<g ref="char:EOLhyphen"/>lignity
+and Bli<U+017F>ters, which do not reach be<g ref="char:EOLhyphen"/>yond
+the skin, <U+017F>et the whole frame of Na<g ref="char:EOLhyphen"/>ture
+in torture and angui<U+017F>h, and cut the
+troath of the Patient before the Wounds can
+be cicratrized? This practice <U+017F>eeming only
+invented to beget Apothecaries practi<U+017F>e and
+Phy<U+017F>icians <U+017F>omewhat to <U+017F>ay, when they are at
+their wits end.</p>
+            <p>Now nothing remaineth to overcome <U+017F>o
+powerful an enemy but <hi>Cordials,</hi> <U+017F>o called,
+becau<U+017F>e, without doing any violence to Na<g ref="char:EOLhyphen"/>ture,
+<pb n="42" facs="tcp:30448:31"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc><1 page duplicate></desc>
+               </gap>
+               <pb n="43" facs="tcp:30448:31"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc><1 page duplicate></desc>
+               </gap>
+               <pb n="44" facs="tcp:30448:32"/>
+or weakening her <U+017F>trength, they directly
+go to the Heart, chear it up, fight again<U+017F>t
+the malignity; and as a Light di<U+017F>per<U+017F>eth
+darkne<U+017F>s, <U+017F>o do the<U+017F>e, any thing that is ene<g ref="char:EOLhyphen"/>my
+to Mans life. Which being done, that
+whol<U+017F>ome temper, in which con<U+017F>i<U+017F>teth Life
+and Health, taketh place again, and the Pa<g ref="char:EOLhyphen"/>tient
+is re<U+017F>tored to his former <U+017F>tate.</p>
+            <p>Under that name of <hi>Cordials,</hi> every one
+almo<U+017F>t obtrudeth what his own fancy and
+imagination thinketh, or hath heard to be <U+017F>o,
+though it be but a <U+017F>imple Di<U+017F>tilled Water,
+coloured with <U+017F>ome Sirrup; and thus trifle
+away the mo<U+017F>t precious thing of the World,
+which is time (as <hi>C<gap reason="illegible: faint" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<U+017F>iphon</hi> <U+017F>aith) while the
+malignity gets footing, and never cea<U+017F>eth till
+it hath de<U+017F>troyed the Patient.</p>
+            <p>Now, as we do not deny that there is a<g ref="char:EOLhyphen"/>bundance
+of tho<U+017F>e Remedies called <hi>Cordials,</hi>
+in Nature; <U+017F>o we deny that it is every ones
+Talent to know them, or the u<U+017F>e of them,
+or the preparation of them. As for example,
+What good can be expected from the Water
+of a Plant Di<U+017F>tilled in a Mettallick Furnace,
+having been fir<U+017F>t irrorated or <U+017F>teeped in com<g ref="char:EOLhyphen"/>mon
+Water, that the greater quantity may
+be drawn, as it is now commonly practi<U+017F>ed.
+Be<U+017F>ides the inconveniency of the Metallick
+quality of the Limbeck which communicateth
+<pb n="45" facs="tcp:30448:32"/>
+it <U+017F>elf to the Water, as it is evidently <U+017F>een,
+and have often tried my <U+017F>elf: For having
+occa<U+017F>ion <U+017F>everal times to pre<U+017F>cribe Mineral
+Waters, as that of <hi>Ep<U+017F>om, Tunbridge, &amp;c.</hi>
+to <U+017F>everal Patients, and among them, to my
+own Daughter. It fell out, that the Water
+which was brought from the Wells in Bottles,
+did agree very well with them, and wrought
+effectually without any violence; but when,
+by the want of that, I was forced to make u<U+017F>e
+of that which they fell in Town, and keep
+in Leaden Ci<U+017F>terns, I found a contrary effect;
+for it wrought <U+017F>o untowardly, that it fright<g ref="char:EOLhyphen"/>ed
+me every time; which I could attribute
+to nothing el<U+017F>e, but to the poy<U+017F>onous quali<g ref="char:EOLhyphen"/>ty
+of the Lead, of which the Ci<U+017F>terns were
+made, and in which the Waters were kept.
+By this we <U+017F>ee what a nece<U+017F><U+017F>ary thing it is, in
+<U+017F>uch ca<U+017F>es, and many others, That a Phy<g ref="char:EOLhyphen"/><U+017F>ician
+<U+017F>hould be his own Apothecary; and
+this I <U+017F>peak meerly for the intere<U+017F>t of the
+truth, being not ignorant how many inter<g ref="char:EOLhyphen"/>e<U+017F><U+017F>ed
+per<U+017F>ons will contradict it.</p>
+            <p>Having <U+017F>et down all the<U+017F>e Notions, it is
+al<U+017F>o requi<U+017F>ite we <U+017F>hould <U+017F>et down the u<U+017F>e of
+our Tincture of <hi>Coral;</hi> therefore a<U+017F><U+017F>oon as
+one falleth into that Malignant or Pe<U+017F>tilential
+Feaver, which is known chiefly by the <U+017F>mal<g ref="char:EOLhyphen"/>ne<U+017F>s,
+quickne<U+017F>s, and intermittency of the
+<pb n="46" facs="tcp:30448:33"/>
+Pul<U+017F>e, let him go to Bed in a warm Room,
+and being well covered to <U+017F>weat, let him
+drink one do<U+017F>e of our Tincture of <hi>Coral,</hi>
+<U+017F>weating after, as long as he is a able; and let
+him follow exactly the method we have <U+017F>et
+down in our Book of the la<U+017F>t great Plague,
+<hi>Anno</hi> 1665. The particulars of which con<g ref="char:EOLhyphen"/>cerning
+this, we <U+017F>hall repeat here, becau<U+017F>e
+the Book is hard to be had, there having been
+three Impre<U+017F><U+017F>ions di<U+017F>per<U+017F>ed in <U+017F>ix weeks time,
+and none to be had at pre<U+017F>ent, that I know:
+Therefore I <U+017F>hall repeat to this purpo<U+017F>e, only
+the XXX. XXXI. XXXII. XXXIII. XXXIV.
+XXXV. XXXVI. <hi>Aphori<U+017F>mes mutatis mu<g ref="char:EOLhyphen"/>tandis.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="unk">
+                  <body>
+                     <div type="instructions">
+                        <div n="30" type="instruction">
+                           <head>XXX.</head>
+                           <p>A<U+017F><U+017F>oon as any one findeth him<U+017F>elf <U+017F>tricken
+with any of the<U+017F>e Symptoms, to wit, a Head<g ref="char:EOLhyphen"/>ake,
+Vomiting, Faintne<U+017F>s, Loo<U+017F>ene<U+017F>s, and a
+<U+017F>mall quick and intermitting Pul<U+017F>e, without
+any prejacent or evident cau<U+017F>e, let him pre<g ref="char:EOLhyphen"/><U+017F>ently
+repair to a clean and warm Room,
+and let a light fire of Wood be kindled in
+the Chimney, to con<U+017F>ume and de<U+017F>troy all the
+infectious vapors that proceed both from the
+Air, and the infected party. Let the Patient
+be pre<U+017F>ently put into a warm Bed him<U+017F>elf,
+wrapped in a Sheet and Blanket, having
+<pb n="47" facs="tcp:30448:33"/>
+fir<U+017F>t put off his Shirt, that when he cometh
+to be dried, you may not be put to the trouble
+of pulling off his wet Shirt, then give him
+one do<U+017F>e of our Tincture of <hi>Coral,</hi> and co<g ref="char:EOLhyphen"/>vering
+him with Cloaths very warm all over,
+leaving only his re<U+017F>piration free, and putting
+a warm Brick to the Soles of his Feet, and
+another to his Knees; let him <U+017F>weat as long as
+he is able, or at lea<U+017F>t, for the <U+017F>pace of three
+or four hours, and be not afraid he <U+017F>hould
+faint, if he hath breath enough.</p>
+                        </div>
+                        <div n="31" type="instruction">
+                           <head>XXXI.</head>
+                           <p>If it <U+017F>hould happen, as it doth commonly
+to tho<U+017F>e that are fir<U+017F>t taken with a vomiting,
+that the Patient <U+017F>hould ca<U+017F>t up the <hi>Cordial,</hi>
+you mu<U+017F>t give him another do<U+017F>e; and if he
+<U+017F>hould ca<U+017F>t up this al<U+017F>o, give him a third,
+and <U+017F>o continue <U+017F>till till he keepeth it once,
+for he will never ca<U+017F>t it up afterwards; and
+though he <U+017F>hould, yet by having taken it <U+017F>o
+often, <U+017F>ome of the qualities of it will remain
+behind, that will work their effect.</p>
+                        </div>
+                        <div n="32" type="instruction">
+                           <head>XXXII.</head>
+                           <p>Children that cannot or will not take the
+Remedy, mu<U+017F>t be compelled to it by pouring
+it into their Throat with an In<U+017F>trument, cal<g ref="char:EOLhyphen"/>led
+by the <hi>Greeks</hi> 
+                              <gap reason="foreign">
+                                 <desc>< in non-Latin alphabet ></desc>
+                              </gap>, which is a kind of
+<pb n="48" facs="tcp:30448:34"/>
+Spoon with a cover, having a <U+017F>pout to put
+into the Mouth, and <U+017F>o to pour it down.</p>
+                        </div>
+                        <div n="33" type="instruction">
+                           <head>XXXIII.</head>
+                           <p>The Patient having <U+017F>weated three or four
+hours, the more the better, you mu<U+017F>t give
+him a little more breath, and began to take
+off the Cloaths by degrees; and when you
+have dried him very well with warm Cloaths
+(which all this while mu<U+017F>t hang by the fire
+with his Shirt) then pull away the wet Sheet
+and Blanket from under him, then give him
+his Shirt, and after that, dry his Head, and
+take heed, by all means, that any cold Air
+<U+017F>hould come into the Room. After you have
+dried his Head <U+017F>ufficiently, and that the party
+beginneth to be cool, give him to drink lei<g ref="char:EOLhyphen"/><U+017F>urely,
+two ounces of our <hi>Cordial</hi> Water, de<g ref="char:EOLhyphen"/><U+017F>cribed
+in the <U+017F>aid Book of the <hi>Plague,</hi> which
+is of an admirable virtue in this ca<U+017F>e, and al<U+017F>o
+in Faintne<U+017F><U+017F>es, Surfeittings, and Poy<U+017F>ons,
+This will refre<U+017F>h him <U+017F>o <U+017F>peedily and wonder<g ref="char:EOLhyphen"/>fully,
+that he will pre<U+017F>ently forget the tire<g ref="char:EOLhyphen"/><U+017F>omne<U+017F>s
+of his <U+017F>weating.</p>
+                        </div>
+                        <div n="34" type="instruction">
+                           <head>XXXIV.</head>
+                           <p>When he is quite cold, give him to eat
+any thing he hath a mind to; <U+017F>o that it be of
+good Juyce, and ea<U+017F>ie dige<U+017F>tion: Let his
+<pb n="49" facs="tcp:30448:34"/>
+drink be <U+017F>trong Beer, lukewarm, or <U+017F>ome Ge<g ref="char:EOLhyphen"/>nerous
+Claret Wine; for, as we have <U+017F>aid be<g ref="char:EOLhyphen"/>fore,
+this Feaver differeth from all others.
+And whereas in others we <U+017F>ub<U+017F>tract Meat, and
+<U+017F>trong Drink, as much as we can, we mu<U+017F>t in
+this allow them, it being only a malignant
+quality, in which, good Meat and Drink can<g ref="char:EOLhyphen"/>not
+hurt, but rather allay it, as al<U+017F>o becau<U+017F>e
+the Patient would not be able to <U+017F>weat twice
+a day in this manner (which of nece<U+017F><U+017F>ity he
+mu<U+017F>t do, if he will <U+017F>ave his life) unle<U+017F>s his
+<U+017F>trength be repaired with good nutriment.</p>
+                        </div>
+                        <div n="35" type="instruction">
+                           <head>XXXV.</head>
+                           <p>This cour<U+017F>e of Sweating twice a day, mu<U+017F>t
+be continued for four days together or five at
+the mo<U+017F>t, in which <U+017F>pace of time, all the
+Malignity and Pe<U+017F>tilential Poy<U+017F>on will expire;
+and, if this be carefully done, and attended,
+there is no Malignant or Pe<U+017F>tilential Feaver
+<U+017F>o <U+017F>tubborn of any kind what<U+017F>oever, but mu<U+017F>t
+yield.</p>
+                        </div>
+                        <div n="36" type="instruction">
+                           <head>XXXVI.</head>
+                           <p>Although the danger be over in four days,
+yet will it not be ami<U+017F>s to make u<U+017F>e <U+017F>till of
+<hi>Cordials</hi> now and then; for it is not only
+nece<U+017F><U+017F>ary to dive away the Pe<U+017F>tilential Poy<g ref="char:EOLhyphen"/>on,
+but al<U+017F>o to <U+017F>trengthen the noble parts,
+<pb n="50" facs="tcp:30448:35"/>
+upon which it may have made an impre<U+017F><U+017F>ion,
+the malignity of a thing being not only in the
+Cau<U+017F>e, but al<U+017F>o in the parts to whom the
+cau<U+017F>e did adhere.</p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus much have I tran<U+017F>cribed out of my
+Book of the <hi>Plague,</hi> for the ea<U+017F>e and con<g ref="char:EOLhyphen"/>veniency
+of the Reader, and for the advan<g ref="char:EOLhyphen"/>cing
+the u<U+017F>e of <U+017F>o noble a Remedy, as the
+Tincture of <hi>Coral.</hi>
+            </p>
+            <p>Now <U+017F>eeing that this Tincture is to be ad<g ref="char:EOLhyphen"/>mini<U+017F>tred
+with our admirable Water again<U+017F>t
+the Plague, and Malignant Feavers, and
+that the Sub<U+017F>tance of both is more formal then
+material, not la<U+017F>ting long in the Body; there<g ref="char:EOLhyphen"/>fore
+the do<U+017F>e is to be renewed every day, al<g ref="char:EOLhyphen"/>lowing
+about three hours of Interval between
+every do<U+017F>e, be<U+017F>ides one do<U+017F>e in the night, if
+the Patient awakes. If this be carefully done,
+there is no Malignant Di<U+017F>ea<U+017F>e but may be
+cured.</p>
+            <p>But as a Gardner that will carefully bring
+up a Plant, taketh care to weed it often, le<U+017F>t
+it <U+017F>hould be choaked or want nouri<U+017F>hment.
+So that I may <U+017F>how the beauty of this Re<g ref="char:EOLhyphen"/>medy,
+I mu<U+017F>t extirpate <U+017F>everal Weeds that
+have crept in of late into the Family of
+Remedies, to the delu<U+017F>ion of the Patients, and
+the irri<U+017F>ion of ignorant Phy<U+017F>icians.</p>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="51" facs="tcp:30448:35"/>
+            <head>CHAP. VII.</head>
+            <head type="sub">Of the dangerous and poy<U+017F>onous quality
+and u<U+017F>e of Bli<U+017F>tering Play<U+017F>ters, and
+that they ought to be exterminated
+out of the Number and Family of Re<g ref="char:EOLhyphen"/>medies.</head>
+            <p>MAny times when a Phy<U+017F>ician is at his
+wits end, and hath nothing to <U+017F>ay
+more concerning the Di<U+017F>ea<U+017F>e in hand, he pre<g ref="char:EOLhyphen"/><U+017F>cribeth
+Bli<U+017F>tering, not knowing nor di<U+017F>tin<g ref="char:EOLhyphen"/>gui<U+017F>hing
+whether it will be fitting or not.
+And there is <U+017F>ome policy in that too; for be<g ref="char:EOLhyphen"/><U+017F>ides
+the obligation, he layeth upon h<gap reason="illegible: missing" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Friend
+the Apothecary, him<U+017F>elf is not without hope
+of benefit, and of being <U+017F>ent for, the more
+often whiles the wounds are green; but what
+good this can do, or which way, chiefly in a
+Malignant Feaver, you mu<U+017F>t not ask, for him<g ref="char:EOLhyphen"/><U+017F>elf
+cannot tell, but only, that it is the com<g ref="char:EOLhyphen"/>mon
+practice of the Town. Which, if it be
+a <U+017F>atisfactory an<U+017F>wer, let every body judge.
+If this abu<U+017F>e had been harmle<U+017F>s, I would
+have pa<U+017F><U+017F>ed over it, as I do over many others
+that I know, and do only range among the
+<pb n="52" facs="tcp:30448:36"/>
+Vulgar Errors. But <U+017F>eeing it tendeth to the
+de<U+017F>truction of mankind, as I have <U+017F>een by
+many <U+017F>ad and woful experiences, and <U+017F>hall
+prove by many grave and Authentical Au<g ref="char:EOLhyphen"/>thors,
+I <U+017F>hould <U+017F>in again<U+017F>t my Con<U+017F>cience,
+Rea<U+017F>on, Knowledge, and Experience, if I
+did not lay open the cheat thereof, in favor
+of a gallant Nation, among which I live and
+am <U+017F>o humanely protected.</p>
+            <p>Be it known therefore, that there is a Re<g ref="char:EOLhyphen"/>medy
+now practi<U+017F>ed in Phy<U+017F>ick called by the
+<hi>Greeks</hi> 
+               <gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap> from the Verb <gap reason="foreign">
+                  <desc>< in non-Latin alphabet ></desc>
+               </gap>,
+which in <hi>Latine</hi> <U+017F>ignifieth <hi>Attraho,</hi> in <hi>Eng<g ref="char:EOLhyphen"/>li<U+017F>h,
+to draw</hi> or <hi>attract,</hi> which was invented
+by the Ancients, chiefly to comfort the weak<g ref="char:EOLhyphen"/>ne<U+017F>s
+of tho<U+017F>e parts which come by cold, or
+too much moi<U+017F>ture, whence it is evident, that
+all tho<U+017F>e Remedies are exceeding hot, dry, and
+<U+017F>harp. Of the<U+017F>e <U+017F>orts are <hi>Mu<U+017F>tard-Seed, Thap<g ref="char:EOLhyphen"/><U+017F>ia,
+Goats Dung, Cre<U+017F><U+017F>es-Seed, Eliampanes
+Roots,</hi> the <hi>Sea Onion, Pigeons Dung, Mice
+Dung, Lice-Bean, Cantharides,</hi> and <U+017F>uch
+like; of which, at pre<U+017F>ent the Modern Phy<g ref="char:EOLhyphen"/><U+017F>icians,
+and namely the Di<U+017F>pen<U+017F>atory of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+have framed a Plai<U+017F>ter for that purpo<U+017F>e,
+called <hi>Empla<U+017F>trum Epi<U+017F>pa<U+017F>ticon,</hi> of which, here
+is the de<U+017F>cription.</p>
+            <q>
+               <floatingText xml:lang="unk">
+                  <body>
+                     <div type="recipe">
+                        <pb n="53" facs="tcp:30448:36"/>
+                        <head>Empla<U+017F>trum Epi<U+017F>pa<U+017F>ticum.</head>
+                        <p>R. Sinapeas.</p>
+                        <p>Eupborbii.</p>
+                        <p>Piperis longi ana drachmam unam <U+017F>emis:</p>
+                        <p>Staphi<U+017F>agriae.</p>
+                        <p>Pyrethri, ana drachmas duas.</p>
+                        <p>Gummi Ammoniaci.</p>
+                        <p>Galbani.</p>
+                        <p>Bdellii.</p>
+                        <p>Sagapeni, ana drachmas tres.</p>
+                        <p>Cantharidum integrarum drachmas quinque.</p>
+                        <p>Picis navalis.</p>
+                        <p>Re<U+017F>inae.</p>
+                        <p>Cerae citrinae ana drachmas <U+017F>ex.</p>
+                        <p>Terebinthinae, quantum <U+017F>ufficit, fiat Empla<U+017F>trum
+u<U+017F>ui reponendum.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now, as I will not deny but that Plai<U+017F>ter
+may be u<U+017F>eful in <U+017F>ome ca<U+017F>es, if it be judici<g ref="char:EOLhyphen"/>ou<U+017F>ly
+applied; <U+017F>o I affirm, that it is of a
+dangerous efficacy, if it be mi<U+017F>applied, and
+chiefly upon tender Bodies, extenuated by
+Sickne<U+017F>s, Fa<U+017F>ting, Watching, and Pains;
+the Rea<U+017F>on is, That the <hi>Cantharides</hi> or <hi>Spa<g ref="char:EOLhyphen"/>ni<U+017F>h
+Flies,</hi> which are the <hi>Ba<U+017F>is</hi> of it, are a
+mo<U+017F>t deadly Poy<U+017F>on, and a particular enemy
+to the Bladder and Genital Parts, which is
+<pb n="54" facs="tcp:30448:37"/>
+<U+017F>o much the more prevalent, in that <U+017F>ome
+Apothecaries of their own accord to make the
+Plai<U+017F>ter of a more quick working, have aug<g ref="char:EOLhyphen"/>mented
+the do<U+017F>e of the <hi>Cantharides.</hi> So that
+when this Plai<U+017F>ter is applied to one <U+017F>ick of a
+Malignant Feaver, and already extenuated
+with the di<U+017F>ea<U+017F>e of Fa<U+017F>ting and Watching, he
+hath good luck if he e<U+017F>cape with life. Tho<U+017F>e
+that are for it, may chance to urge their own
+experience, again<U+017F>t which I <U+017F>hall oppo<U+017F>e mine,
+which is of forty years <U+017F>tanding; but becau<U+017F>e
+neither they or I <U+017F>hould be believed, as being
+Partial, I <U+017F>hall cite here <U+017F>ome memorable ob<g ref="char:EOLhyphen"/><U+017F>ervations
+made by <U+017F>everal learned, hone<U+017F>t,
+and famous Authors, to clear this point,
+which is of <U+017F>o great a con<U+017F>equence.</p>
+            <p>I <U+017F>hall not <U+017F>peak here of the dangers and
+cruel Symptoms that follow the taking of
+<hi>Cantharides</hi> inwardly, becau<U+017F>e they are <U+017F>o
+generally known, that no body can be igno<g ref="char:EOLhyphen"/>rant
+thereof, but tho<U+017F>e that are altogether
+ignorant of Phy<U+017F>ick, I <U+017F>hall only mention
+the pernicious effects, and <U+017F>ad con<U+017F>equences
+they cau<U+017F>e, being applied outwardly. The
+fir<U+017F>t Ob<U+017F>ervation <U+017F>hall be taken out of <hi>Guiliel<g ref="char:EOLhyphen"/>mus
+Fabricius Hildanus,</hi> a late Author, and
+excellent Phy<U+017F>ician and Chirurgeon in <hi>Swit<g ref="char:EOLhyphen"/>zerland,</hi>
+in his Ninety and eighth Ob<U+017F>erva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <pb n="55" facs="tcp:30448:37"/>
+A certain Gentleman of the Town of
+<hi>Villeneuve,</hi> by the Lake of <hi>Geneva,</hi> having a
+cold Tumor in one of his Knees, cau<U+017F>ed by a
+cold, and tough Humor, did ask a Barbers
+advice, who without taking notice of the
+Antecedent Cau<U+017F>e, went about to cure him
+only with Topical Remedies; therefore he
+applied fir<U+017F>t Cupping Gla<U+017F><U+017F>es, after that a
+Cautery on the <U+017F>ide of the Kneepan, think<g ref="char:EOLhyphen"/>ing
+to empty the Matter that was gathered.
+When the<U+017F>e did not <U+017F>ucceed, he applied a
+Pulte<U+017F>s made with <hi>Leaven</hi> and <hi>Cantharides,</hi>
+and did exulcerate all the Knee, then follow<g ref="char:EOLhyphen"/>ed
+an exce<U+017F><U+017F>ive pain about the Knee, re<U+017F>tle<U+017F><g ref="char:EOLhyphen"/>ne<U+017F>s,
+a Feaver, and <U+017F>everal other fearful
+Symptoms; among which, was a grievous
+pain of the Reins, and of all the Belly, and
+pre<U+017F>ently after <U+017F>uch a heat in his Urine, that
+he could not make one drop (for it came only
+drop by drop, and that Bloody) without the
+greate<U+017F>t torture imaginable. The Pulte<U+017F>s be<g ref="char:EOLhyphen"/>ing
+removed, he was <U+017F>omething the better, be<g ref="char:EOLhyphen"/>cau<U+017F>e
+it had drawn the mo<U+017F>t <U+017F>ubtle part of the
+Humor: Which when the Barber <U+017F>aw, he
+applied again the <U+017F>ame Pulte<U+017F>s of <hi>Cantharides,</hi>
+upon which all the <U+017F>aid Symptoms became
+wor<U+017F>e than before, and chiefly the heat of
+Urine, which the Patient feeling would ad<g ref="char:EOLhyphen"/>mit
+no more of the <U+017F>aid Pulte<U+017F>s, but di<U+017F>mi<U+017F>t
+<pb n="56" facs="tcp:30448:38"/>
+his Barber, and after came to me to <hi>Lau<U+017F>an<g ref="char:EOLhyphen"/>na<g ref="char:punc"><U+25AA></g>
+               </hi>
+where having prepared fir<U+017F>t his Body with
+opening <hi>Apozemes,</hi> I purged him <U+017F>everal
+times with the aggregative Pills, and tho<U+017F>e of
+Her modacts; and after that, gave him the
+decoction of <hi>Guaiacum, Sa<U+017F><U+017F>afra<U+017F>s,</hi> and <hi>China,</hi>
+cau<U+017F>ing him to <U+017F>weat gently, that the Matter
+about the Knee might melt and evaporate,
+after that I applied this Pulte<U+017F>s of <hi>Vigo.</hi>
+            </p>
+            <p>
+               <q>
+                  <floatingText xml:lang="unk">
+                     <body>
+                        <div type="recipe">
+                           <head><U+211E>. Farinae Fabarum.</head>
+                           <p>Farinae hordei, an. <U+2125> iv.</p>
+                           <p>Furfuris bene triturati M. ij.</p>
+                           <p>Stercoris Caprini triturati <abbr>lb</abbr>. <U+017F>s.</p>
+                           <p>Meliloti an. m. 1. cum Lixivio &amp; Sapa <U+017F>ufficienti
+de omnibus fiat Empla<U+017F>trum <U+017F>olidum addendo
+olei Camomelini &amp; Anethini ana <U+2125> ij, appli<g ref="char:EOLhyphen"/>cetur
+calide bis in die.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <hi>When he had u<U+017F>ed this
+Pulte<U+017F>s a whole moneth together, he recover<g ref="char:EOLhyphen"/>ed
+his health. You <U+017F>hall find the like exam<g ref="char:EOLhyphen"/>ple
+in</hi> Joh. Langius, Lib. 1. Epi<U+017F>t. 47.</p>
+            <p>The third Ob<U+017F>ervation <U+017F>hall be taken out of
+<hi>Baccius,</hi> in <hi>Prolegomenis Venenorum &amp; Anti<g ref="char:EOLhyphen"/>dotorum,</hi>
+where he <U+017F>aith, <hi>We find by Experi<g ref="char:EOLhyphen"/>ence,
+that</hi> Cantharides <hi>being mixed in Bli<U+017F>ter<g ref="char:EOLhyphen"/>ing
+Plai<U+017F>ters, and applied, do mo<U+017F>t violently
+corrode the Stomach and the Belly; but above
+all, to be by its property a peculiar enemy to the
+Bladder, and to tear it in pieces with its
+Bloody <g ref="char:V"><U+01B2></g>rine, and <U+017F>o to kill the Patients. For</hi>
+               <pb n="57" facs="tcp:30448:38"/>
+               <hi>we have ob<U+017F>erved many times, that when</hi> Can<g ref="char:EOLhyphen"/>tharides
+<hi>have been applied to the Head in a
+Lethargy, and to the Brawns of the Arms and
+Legs; they have cau<U+017F>ed an extream pain, with
+an inflammation and difficulty of Bloody <g ref="char:V"><U+01B2></g>rine,
+and <U+017F>o have killed the Patients. Which danger
+de<U+017F>erves a <U+017F>erious con<U+017F>ideration.</hi>
+            </p>
+            <p>The fourth Ob<U+017F>ervation is out of <hi>Bra<U+017F><U+017F>a<g ref="char:EOLhyphen"/>volus,
+Comm. ad Aphor.</hi> 17. <hi>Lib.</hi> 2. who <U+017F>aith,
+That one <hi>Vincentinus Grema,</hi> a famous Chi<g ref="char:EOLhyphen"/>rurgeon
+in his time, took once a Medicine,
+the Powders of which had been <U+017F>tamped in
+a Morter, where <hi>Cantharides,</hi> had been <U+017F>tamp<g ref="char:EOLhyphen"/>ed
+before: Whereupon, though he did not
+actually eat any <hi>Cantharides,</hi> yet was he ex<g ref="char:EOLhyphen"/>coriated
+from the Mouth to the Fundament,
+and could not get his health again in le<U+017F>s then
+eighteen Moneths <U+017F>pace; yet were there no
+<hi>Cantharides</hi> in the ca<U+017F>e, but a kind of quality
+proceeding from them that <U+017F>tuck about the
+Morter.</p>
+            <p>The fifth Ob<U+017F>ervation is out of <hi>Bartholomeus
+Montagnana,</hi> a famous Phy<U+017F>ician of <hi>Italy,</hi> who
+relateth, That one <hi>Francis Brac,</hi> a Citizen of
+<hi>Padua,</hi> having applied <U+017F>ome <hi>Cantharides</hi> to
+his Knee, did avoid by Urine above Five
+pounds of Blood; and that the <U+017F>ame did
+happen to one who applied them to his great
+Toe, to take away the roughne<U+017F>s and uneven<g ref="char:EOLhyphen"/>ne<U+017F>s
+<pb n="58" facs="tcp:30448:39"/>
+of his Nails. <hi>Langius, Tom.</hi> 1. <hi>Epi<U+017F>t.</hi>
+47.</p>
+            <p>But what is more incredible then this is,
+That a certain Chirurgeon of <hi>Milan,</hi> made
+twice Bloody water, for carrying in his Pocket
+a Ve<U+017F>icatory made of <hi>Cantharides.</hi> Thus
+affirmeth, <hi>Joan. Michael Pa<U+017F>chalius, Method.
+Curand. Morb. cap.</hi> 44.</p>
+            <p>The <U+017F>ixth Ob<U+017F>ervation is of a certain Man
+who carrying by chance <hi>Cantharides</hi> in his
+Pocket, as the fa<U+017F>hion is of <U+017F>ome Chirurgeons,
+did make Bloody Urine; and complaining to
+me of it, I bid him he <U+017F>hould not meddle with
+them, no not <U+017F>o much as to touch them, or
+carry them in his Pocket. Such another ac<g ref="char:EOLhyphen"/>cident,
+I was told by <hi>Helidaeus de Paduinis,</hi>
+a famous Phy<U+017F>ician of <hi>Bolonia,</hi> with whom
+I u<U+017F>ed to vi<U+017F>it <U+017F>ick people, when I was at <hi>Bo<g ref="char:EOLhyphen"/>lonia.</hi>
+The mo<U+017F>t famous Phy<U+017F>ician <hi>Adolphus
+Occo</hi> in his <hi>Ob<U+017F>ervations.</hi>
+            </p>
+            <p>The <U+017F>eventh Ob<U+017F>ervation is of a Noble Wo<g ref="char:EOLhyphen"/>man
+who having her Face full of red, burning,
+and ugly Pimples, was <U+017F>o deformed therewith,
+that every Body avoided her as a Leper, and
+the Magi<U+017F>trates were ready to <U+017F>eque<U+017F>ter her
+from the common <U+017F>ociety of Mankind. She
+came to <hi>Paris,</hi> where having called for two
+Doctors of Phy<U+017F>ick, to wit, <hi>Hollerius</hi> and
+<hi>Grealmus,</hi> and two Chirurgeons Mr. <hi>Cabal,</hi>
+               <pb n="59" facs="tcp:30448:39"/>
+and my <U+017F>elf, <U+017F>he inquired with great care and
+diligence, if there was no remedy again<U+017F>t
+<U+017F>uch a deformity. Having con<U+017F>idered dili<g ref="char:EOLhyphen"/>gently
+the di<U+017F>ea<U+017F>e, we unanimou<U+017F>ly concluded
+that it was no Lepro<U+017F>ie, but that it was fit<g ref="char:EOLhyphen"/>ting
+that a Ve<U+017F>icatory made of <hi>Cantharides</hi>
+<U+017F>hould be applied all the Face over, three or
+four hours after her Bladder began to ake,
+and to burn vehemently, and the Neck of the
+Womb, to <U+017F>well with gripings, a continual
+vomiting, and making of water, a raving
+carriage of all her Limbs, and a Burning Fea<g ref="char:EOLhyphen"/>ver.
+I called for the Phy<U+017F>icians again pre<g ref="char:EOLhyphen"/><U+017F>ently;
+the conclu<U+017F>ion was, That we <U+017F>hould
+give her much Milk to drink, and inject <U+017F>ome
+in the Guts by the Fundament, and into the
+Womb and Bladder by the <hi>
+                  <g ref="char:V"><U+01B2></g>rethra;</hi> that <U+017F>he
+<U+017F>hould go into a lukewarm Bath, wherein
+<U+017F>hould have been boiled <hi>Lin<U+017F>eeds,</hi> the Roots
+and Leaves of <hi>Mallows</hi> and <hi>Mar<U+017F>h-Mallows,</hi>
+of <hi>Violets, Hemlock, Pur<U+017F>leine,</hi> and <hi>Lettice;</hi>
+and <U+017F>o to continue, from time to time, till the
+pain was quite cea<U+017F>ed. That the Reins and
+Genital Parts <U+017F>hould be anointed with <hi>
+                  <g ref="char:V"><U+01B2></g>n<g ref="char:EOLhyphen"/>guentum
+Ro<U+017F>atum</hi> and <hi>Populeon,</hi> di<U+017F><U+017F>olved
+and mixed with <hi>Oxycrat.</hi> By the<U+017F>e means all
+the Symptomes vani<U+017F>hed away, in the mean
+time the Face was full of Bli<U+017F>ters, which be<g ref="char:EOLhyphen"/>ing
+broke, a great deal of Matter i<U+017F><U+017F>ued out,
+<pb n="60" facs="tcp:30448:40"/>
+and the deformity was cured, in<U+017F>omuch, that
+a little while after <U+017F>he was married, and had
+many Children. <hi>Ambro<U+017F>ius Paraeus, Lib.</hi> 5.
+<hi>cap.</hi> 17.</p>
+            <p>For my own part I can certifie, that my
+younge<U+017F>t Daughter <hi>Elizabeth,</hi> being about
+thirteen or fourteen years old, and very <U+017F>ub<g ref="char:EOLhyphen"/>ject
+to <U+017F>ore eyes; after I had purged her, and
+let her blood in the foot, I applied a Ve<U+017F>ica<g ref="char:EOLhyphen"/>tory
+of <hi>Cantharides,</hi> at the bottom of her
+neck, thinking to make a diver<U+017F>ion of the
+Humor, but within three or four hour after
+<U+017F>he fell <U+017F>tark lame of her right hip, <U+017F>o that I
+was forced pre<U+017F>ently to remove the Ve<U+017F>ica<g ref="char:EOLhyphen"/>tory;
+and for all that, the lamene<U+017F>s continued
+three or four weeks after. By what I have
+<U+017F>aid, it is apparent what a dangerous thing
+<hi>Cantharides</hi> is, not only inwardly given, in
+which ca<U+017F>e they are a deadly poy<U+017F>on, but al<U+017F>o
+outwardly applied; as is <U+017F>een by the <U+017F>everal
+Ob<U+017F>ervations I have made here, and many
+more may be taken out of <hi>Fore<U+017F>tus, Cabrolius,
+&amp;c.</hi>
+            </p>
+            <p>I could al<U+017F>o here relate <U+017F>ome fatal Ob<U+017F>er<g ref="char:EOLhyphen"/>vations
+of my own, and of which, I have
+been a <U+017F>ad eye-witne<U+017F>s; but that I do not
+love to renew the grief of the living Relati<g ref="char:EOLhyphen"/>ons,
+nor to in<U+017F>ult on the mi<U+017F>carriage of Phy<g ref="char:EOLhyphen"/><U+017F>icians,
+knowing that we are all faulty, and
+<pb n="61" facs="tcp:30448:40"/>
+that again<U+017F>t death we have no power but for<g ref="char:EOLhyphen"/>getfulne<U+017F>s.</p>
+            <p>From the<U+017F>e things we may perceive the
+truth of what <hi>Mathiolus</hi> <U+017F>aith upon the Sixth
+Book of <hi>Dio<U+017F>corides,</hi> where he hath the<U+017F>e
+words.</p>
+            <p>Cantharides <hi>are hurtful chiefly to the Bladder,
+and to all the parts that <U+017F>erve for the evacua<g ref="char:EOLhyphen"/>tion
+of <g ref="char:V"><U+01B2></g>rine, not only being taken inwardly,
+but al<U+017F>o being applied outwardly where there is
+occa<U+017F>ion to Bli<U+017F>ter, chiefly when they are mixed
+with large Pulte<U+017F><U+017F>es, and are applied to places
+near the Bladder, to wit, the Hips, the Privy
+Parts, the Kidneys, or the Stones.</hi> Thus far
+<hi>Mathiolus.</hi>
+            </p>
+            <p>Therefore if any Body will make u<U+017F>e of
+them, it is nece<U+017F><U+017F>ary he <U+017F>hould do it prudently
+and circum<U+017F>pectly, chiefly let the young Phy<g ref="char:EOLhyphen"/><U+017F>icians
+take heed, lea<U+017F>t in pre<U+017F>cribing Remedies
+which admit of <hi>Cantharides,</hi> they do not
+err in quantity; for becau<U+017F>e <hi>Cantharides</hi> are
+<U+017F>o light, that fifty of them weigh <U+017F>carce one
+drachm, the Error is ea<U+017F>ie to be committed.
+Nay, the mo<U+017F>t ingenuous of the Apothecaries
+have confe<U+017F><U+017F>ed to me, that in the Di<U+017F>pen<U+017F>ati<g ref="char:EOLhyphen"/>on
+of their <hi>Empla<U+017F>trum Epi<U+017F>pa<U+017F>ticon,</hi> they
+double the do<U+017F>e of <hi>Cantharides</hi> to make it of
+a quicker working. Who <U+017F>hall be <U+017F>o bold after
+this, to make u<U+017F>e of <U+017F>o pernicious a Remedy,
+<pb n="62" facs="tcp:30448:41"/>
+and chiefly in Malignant Feavers, where the
+Poy<U+017F>on is inward, the Vitals dejected, the
+Natural <U+017F>trength abated, and no good can be
+alledged to come out of this Remedy? All
+the excu<U+017F>e being, that it is a common practice
+about the Town, that is, a common and a
+pernicious Vulgar Error. Away then with
+tho<U+017F>e dangerous things, more pe<U+017F>tilent many
+times then the di<U+017F>ea<U+017F>e it <U+017F>elf; and let us turn
+our practi<U+017F>e to a <U+017F>afer and nobler way, that is,
+our Tincture of <hi>Coral,</hi> which without danger,
+but rather with a great deal of plea<U+017F>ure, per<g ref="char:EOLhyphen"/>formeth
+in Malignant Feavers, and other di<U+017F><g ref="char:EOLhyphen"/>ea<U+017F>es,
+we have or <U+017F>hall mention, the three <U+017F>o
+much required Indications, for the relief of
+the Patient, and the honor of the Phy<U+017F>ician,
+to wit, <hi>Cito, tuto, jucunde.</hi>
+            </p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="63" facs="tcp:30448:41"/>
+            <head>CHAP. VIII.</head>
+            <head type="sub">Of the Virtue of the Tincture of <hi>Coral,</hi>
+in all Feavers and Agues.</head>
+            <p>I Have ranged the<U+017F>e two Di<U+017F>ea<U+017F>es under one
+Head, becau<U+017F>e they are of the <U+017F>ame Nature,
+except that Feavers are continual, and Agues
+intermittent, but both to be cured the <U+017F>ame
+way.</p>
+            <p>I am not here to expre<U+017F>s the Nature of all
+Feavers, which belongeth to the general
+knowledge of Phy<U+017F>ick, and would <U+017F>well
+this little Treati<U+017F>e into a Volume, but to
+touch as much of them as will <U+017F>erve our own
+intention, and to <U+017F>hew how the Tincture of
+<hi>Coral</hi> is, and may be a Sovereign Remedy for
+them: Therefore leaving a<U+017F>ides their <U+017F>everal
+Definitions, Divi<U+017F>ions, and Controver<U+017F>ies,
+we <U+017F>hall only mark the chief Grounds of their
+Nature, and the Analogy that is between it
+and their Remedy, to wit, The Tincture of
+<hi>Coral.</hi>
+            </p>
+            <p>Fir<U+017F>t then let it be e<U+017F>tabli<U+017F>hed, that a Feaver
+is a hot intempery proceeding from a Preter<g ref="char:EOLhyphen"/>natural
+heat kindled in the Heart; and from
+thence di<U+017F>per<U+017F>ed into all the Body, by the
+<pb n="64" facs="tcp:30448:42"/>
+means of the Veins and Arteries, and hurt<g ref="char:EOLhyphen"/>ing
+the Natural Actions. The chief Indica<g ref="char:EOLhyphen"/>tion
+for the curing of them, is to take away
+that Preternatural heat, and to reduce the
+Body into its former temper, as we <U+017F>ee, that
+all things after they have left their boiling and
+fermenting, and are cooled, become purer
+then they were before. Wherein it is to be
+ob<U+017F>erved, that the Natural heat, and the Pre<g ref="char:EOLhyphen"/>ternatural,
+differ chiefly in this, That the Na<g ref="char:EOLhyphen"/>tural
+heat is a Sub<U+017F>tance, and the Preternatu<g ref="char:EOLhyphen"/>ral
+only a Quality. The ignorance of this
+difference is the cau<U+017F>e, that <U+017F>o many mi<U+017F>carry
+in Feavers; for when Phy<U+017F>icians go about
+that Preternatural heat (<U+017F>uppo<U+017F>e by Bleeding)
+they altogether quench the Natural one,
+which by all means ought to be pre<U+017F>erved, and
+<U+017F>o ha<U+017F>ten the Di<U+017F><U+017F>olution of the Patient, by
+taking away the <hi>Ba<U+017F>is,</hi> upon which, Life is
+founded: For what need is it, if one de<U+017F>ireth
+to take away the Preternatural heat, and <U+017F>o
+to cure a Feaver, that he <U+017F>hould al<U+017F>o take
+with it the Natural one, in which con<U+017F>i<U+017F>teth a
+Mans life; for the Preternatural heat being
+once removed, the other remaineth free for
+the exerci<U+017F>ing harmonically the Functions of
+the Body. The only ea<U+017F>ie, and <U+017F>ure way
+therefore to cure Feavers, is to extingui<U+017F>h the
+Preternatural heat, without doing prejudice
+<pb n="65" facs="tcp:30448:42"/>
+to the Natural one, but rather comforting and
+<U+017F>trengthning it.</p>
+            <p>Now I affirm, that this cannot be done
+<U+017F>afely but by <U+017F>eparating the Preternatural heat
+from the Natural; and <U+017F>o expelling the Pre<g ref="char:EOLhyphen"/>ternatural,
+while the Natural remaineth in
+liberty, to perform the Functions of Nature;
+which being helped by noble and harmle<U+017F>s
+Remedies, will quickly and <U+017F>afely disburden
+her <U+017F>elf of what is noxious and <U+017F>purious, as
+we have <U+017F>hewed before in the example of
+<hi>An<U+017F>elmus de Booth:</hi> And this by an Univer<U+017F>al
+Evacuation thorough the Pores, becau<U+017F>e the
+di<U+017F>ea<U+017F>e is univer<U+017F>ally di<U+017F>per<U+017F>ed thorough the
+whole Body; which by this means is not only
+lightned of its burden, but comforted and
+<U+017F>trengthned by the virtue and efficacy of this
+noble Remedy.</p>
+            <p>It is al<U+017F>o to be ob<U+017F>erved, That the Natural
+heat is Cele<U+017F>tial, as flowing from the Sun, <hi>Sol
+&amp; homo generant hominem,</hi> and the Preter<g ref="char:EOLhyphen"/>natural,
+is Elementary; and therefore ea<U+017F>ily
+<U+017F>eparable from the other: But <U+017F>ome Body
+will object perhaps, that be<U+017F>ides the Preter<g ref="char:EOLhyphen"/>natural
+heat which makes a Feaver, there may
+be mixed with it a Latent Malignity, and ask
+what <U+017F>hall become of it? I an<U+017F>wer, That the
+Preternatural heat, and the Malignity go a<g ref="char:EOLhyphen"/>way
+together in the Evacuation; for the way
+<pb n="66" facs="tcp:30448:43"/>
+way through the Pores, being free and open,
+and this Remedy being one of the mo<U+017F>t power<g ref="char:EOLhyphen"/>ful
+Cordials in the World, driveth away from
+the Heart, that is, from the Center to the
+Circumference, what<U+017F>oever is an Enemy to
+the Humane Body, and that with a great deal
+of ea<U+017F>e and <U+017F>ecurity.</p>
+            <p>Now concerning tho<U+017F>e Feavers called <hi>Inter<g ref="char:EOLhyphen"/>mittent,</hi>
+or as the vulgar termeth them, <hi>Agues,</hi>
+the Method and Remedy is the <U+017F>ame, except
+that the <hi>Salt of Coral</hi> mu<U+017F>t be mixed with
+the Tincture, becau<U+017F>e the<U+017F>e Agues have their
+foundation in a toughter matter then the Fea<g ref="char:EOLhyphen"/>vers,
+to wit, in the Humors; as the Tertian
+in Choler, the Quotidian in Phlegm, the
+Quartan in Melancholy, wherein they harbor,
+as in their proper Ferment, which they will
+hardly for<U+017F>ake till it be de<U+017F>troyed. Now the
+<hi>Tincture of Coral</hi> alone, being too Formal
+and Spiritual to de<U+017F>troy and di<U+017F>per<U+017F>e tho<U+017F>e
+earthly dro<U+017F><U+017F>es, we in this ca<U+017F>e joyn with it
+the <hi>Salt,</hi> which cutteth and inci<U+017F>eth the tough<g ref="char:EOLhyphen"/>ne<U+017F>s
+of the matter and den<U+017F>ity, and prepareth
+it to expul<U+017F>ion, when the <hi>Tincture</hi> cometh to
+radiate upon it.</p>
+            <p>I have thus a little inlarged my <U+017F>elf upon
+this <U+017F>ubject of Feavers, becau<U+017F>e there is no
+di<U+017F>ea<U+017F>e more vulgar and frequent; for <U+017F>eeing
+that mo<U+017F>t of other di<U+017F>ea<U+017F>es do not <U+017F>ei<U+017F>e upon
+<pb n="67" facs="tcp:30448:43"/>
+Humane Bodies equally, but are more or le<U+017F>s
+familiar to <U+017F>ome Ages, Regions, and Con<U+017F>ti<g ref="char:EOLhyphen"/>tutions
+of Bodies then others; there is no
+Age, Region, and Con<U+017F>titution of Body, that
+can promi<U+017F>e to it <U+017F>elf a freedom from Feaver;
+and, as it is a frequent di<U+017F>ea<U+017F>e, <U+017F>o is it mo<U+017F>t
+dangerous, and not without cau<U+017F>e: For it
+occupieth the Storehou<U+017F>e of the Natural and
+Vivifying heat, wa<U+017F>teth and de<U+017F>troyeth it, and
+unle<U+017F>s that Fiery and Preternatural heat be
+timely prevented, it <U+017F>cattereth and devoureth
+the Natural one; which being the Trea<U+017F>ure
+of Life, Death is pre<U+017F>ently at the door, in<U+017F>o<g ref="char:EOLhyphen"/>much,
+that mo<U+017F>t people die of that di<U+017F>ea<U+017F>e;
+or rather, as <hi>Galen</hi> <U+017F>aith, <hi>Nemo <U+017F>ine febre mo<g ref="char:EOLhyphen"/>ritur,</hi>
+No Body dies without a Feaver; which
+is the rea<U+017F>on, that the Ancient <hi>Romans</hi> having
+a mind to court it, and to render it propitious
+unto them<U+017F>elves, did build it a Temple and
+Wor<U+017F>hipped it <U+017F>uper<U+017F>titiou<U+017F>ly as a Godde<U+017F>s;
+as <hi>Plinius</hi> affirmeth, <hi>Lib.</hi> 2. <hi>cap.</hi> 24. <hi>Augu<U+017F>t. de
+Civit. Dei, Lib.</hi> 2. <hi>cap.</hi> 14. And <hi>Val. Max. Lib.</hi>
+2. <hi>cap.</hi> 5.</p>
+            <pb n="66" facs="tcp:30448:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc><1 page duplicate></desc>
+            </gap>
+            <pb n="67" facs="tcp:30448:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc><1 page duplicate></desc>
+            </gap>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="68" facs="tcp:30448:45"/>
+            <head>CHAP. IX.</head>
+            <head type="sub">How the Tincture of <hi>Coral</hi> worketh upon
+all tho<U+017F>e other Di<U+017F>ea<U+017F>es, we have <U+017F>aid it
+was fit for.</head>
+            <p>WE have here and there mentioned <U+017F>eve<g ref="char:EOLhyphen"/>ral
+Di<U+017F>ea<U+017F>es; in which we affirm the
+<hi>Tincture of Coral</hi> to be a mo<U+017F>t Sovereign Re<g ref="char:EOLhyphen"/>medy;
+and that not only out of our own ex<g ref="char:EOLhyphen"/>perience,
+but out of the Authority of famous
+and learned Men in all Ages, as
+<list>
+                  <item>Dio<U+017F>corides.</item>
+                  <item>Mathiolus.</item>
+                  <item>An<U+017F>elmus de Booth.</item>
+                  <item>O<U+017F>waldus Crollius.</item>
+                  <item>Joannes Petrus Faber.</item>
+                  <item>Arnoldus Villanovanus.</item>
+                  <item>Forre<U+017F>tus.</item>
+                  <item>Fernelius.</item>
+                  <item>Cardanus.</item>
+                  <item>Rogerius Baco.</item>
+               </list>
+            </p>
+            <p>And as many others as have written of the
+Nature and Virtues of <hi>Coral,</hi> who agree all in
+one, and by that means have made it an un<g ref="char:EOLhyphen"/>deniable
+truth. It will not be ami<U+017F>s now by
+way of Recapitulation to mention all tho<U+017F>e
+<pb n="69" facs="tcp:30448:45"/>
+Di<U+017F>ea<U+017F>es again, and to illu<U+017F>trate as much as in
+us lieth, the way and manner how the <hi>Tincture
+of Coral</hi> worketh upon them.</p>
+            <list>
+               <head>The Di<U+017F>ea<U+017F>es again<U+017F>t which the Tincture of
+<hi>Coral</hi> is a Sovereign Remedy.</head>
+               <item>The Plague.</item>
+               <item>All <U+017F>orts of Feavers.</item>
+               <item>All <U+017F>orts of Agues.</item>
+               <item>Flux, Small Pox, Mea<U+017F>les.</item>
+               <item>All immoderate Fluxes in Women, whether
+Red or White.</item>
+               <item>All Bloody Fluxes, Gripings, and Lasks.</item>
+               <item>Spitting of Blood, and the Piles.</item>
+               <item>Fits of the Mother.</item>
+               <item>Drop<U+017F>ies.</item>
+               <item>Convul<U+017F>ion.</item>
+               <item>Pal<U+017F>ie.</item>
+               <item>Falling Sickne<U+017F>s.</item>
+               <item>The Stone and Gravel.</item>
+               <item>
+                  <g ref="char:V"><U+01B2></g>lcers.</item>
+               <item>Pleuri<U+017F>ie.</item>
+               <item>Barrenne<U+017F>s in Women.</item>
+               <item>Running of the Reins.</item>
+               <item>Intemperies of the Liver, Spleen, and Kid<g ref="char:EOLhyphen"/>neys.</item>
+               <item>Venereal Di<U+017F>ea<U+017F>es.</item>
+               <item>Faintings.</item>
+               <item>Surfeitings.</item>
+               <item>Vomitings.</item>
+            </list>
+            <div type="disease">
+               <pb n="70" facs="tcp:30448:46"/>
+               <head>Again<U+017F>t the Plague.</head>
+               <p>It worketh both by its Elementary and
+Specifick qualiies; for while by its excellent
+temper it bringeth all the Humors into a per<g ref="char:EOLhyphen"/>fect
+<hi>Cra<U+017F>is,</hi> and union, and quelleth all the
+Jars that are among them; the Formal part of
+it, in which lies the Specifick quality doth by
+its Actinoboli<U+017F>m or Irradiation, expel all the
+Malignancy and Poy<U+017F>on of the Air thorough
+the Pores, by ca<U+017F>ting the Patient into a gentle
+and moderate <U+017F>weat, and <U+017F>trengthning the
+noble Parts.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Feavers and Agues.</head>
+               <p>It worketh the <U+017F>ame way, and be<U+017F>ides it
+de<U+017F>troyeth and <U+017F>cattereth the Ferment, in
+which lieth the form of the Feaver, and the
+type of the Ague.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Flux, Small Pox, and Mea<U+017F>les.</head>
+               <p>The<U+017F>e Di<U+017F>ea<U+017F>es being naturally rooted in
+the Body, as a part and portion of the impu<g ref="char:EOLhyphen"/>rity
+of the Men<U+017F>trual Blood, which is the
+rea<U+017F>on that all mankind is liable to it once in
+its life, <U+017F>ooner or later, and may be called <hi>The
+original <U+017F><gap reason="illegible: missing" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of the Body,</hi> or as <hi>Avicenna</hi> call<g ref="char:EOLhyphen"/>eth
+it, <hi>Morbus Men<U+017F>trui.</hi> This noble Remedy
+clean<U+017F>eth all tho<U+017F>e Impurities by <U+017F>eparating the
+pure from the impure, which it thru<U+017F>teth a<g ref="char:EOLhyphen"/>way
+from the Center to the Circumference
+<pb n="71" facs="tcp:30448:46"/>
+thorough the Pores; and <U+017F>o comforteth the
+noble Parts.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t all immoderate Fluxes in Women.</head>
+               <p>It worketh by its Specifick quality of cor<g ref="char:EOLhyphen"/>roborating
+the Liver and Spleen, the Intem<g ref="char:EOLhyphen"/>pery
+of which is the Antecedent and chief
+au <U+017F>e of all the<U+017F>e di<U+017F>orders.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t all Bloody<g ref="char:punc"><U+25AA></g> Fluxes, Gripings,
+and Lasks.</head>
+               <p>There being <U+017F>uch a <U+017F>ympathy between Hu<g ref="char:EOLhyphen"/>mane
+Blood, and the Tincture of <hi>Coral,</hi> it is
+not hard to gue<U+017F>s, that in this ca<U+017F>e it worketh
+by the amity and friend<U+017F>hip they have toge<g ref="char:EOLhyphen"/>ther;
+by which the Blood is cheered up, and,
+as it were, courted to remain in its Recepta<g ref="char:EOLhyphen"/>cles
+and Ve<U+017F><U+017F>els; by which means, and the
+<U+017F>trengthning of the Vitals, all the Preterna<g ref="char:EOLhyphen"/>tural
+<U+017F>ymptoms cea<U+017F>e.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Spitting of Blood, and the Piles.</head>
+               <p>All the<U+017F>e kinds of Haemorrhagies proceed<g ref="char:EOLhyphen"/>ing
+from a Vein that is either broken, corro<g ref="char:EOLhyphen"/>ded,
+or gaping, it is apparent, that no better
+Remedy can be given then the Tincture of
+<hi>Coral,</hi> given in a proper <hi>Vehioulum,</hi> having
+manife<U+017F>t Qualities for the healing of the
+Veins, and Specifick ones for the <U+017F>tanching of
+the Blood; and it is agreed by all Authors.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Fits of the Mother.</head>
+               <p>Seeing that this Di<U+017F>ea<U+017F>e called by the <hi>Latins
+<pb n="72" facs="tcp:30448:47"/>
+                     <g ref="char:V"><U+01B2></g>teri Suffocatio,</hi> hath more <U+017F>everal Cau<U+017F>es then
+can at this time be ea<U+017F>ily expre<U+017F><U+017F>ed. We <U+017F>hall
+only <U+017F>ay, That the Tincture of <hi>Coral</hi> being
+mini<U+017F>tred in a proper Vehicle, <U+017F>cattereth all
+tho<U+017F>e noxious fumes; and by its Radiation,
+penetrates as far as to the <U+017F>eat of the di<U+017F>temper,
+and <U+017F>trengthneth all the Vitals.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Drop<U+017F>ies.</head>
+               <p>It is known to every Body that mo<U+017F>t Drop<g ref="char:EOLhyphen"/><U+017F>ies
+come by an Intempery of the Liver or
+Spleen; which is vi<U+017F>ibly and palpably recti<g ref="char:EOLhyphen"/>fied
+by this noble Remedy, having fir<U+017F>t purged
+and emptied the <U+017F>uperfluous Matter.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Convul<U+017F>ion.</head>
+               <p>This Di<U+017F>ea<U+017F>e being mo<U+017F>t frequent among
+Children, and proceeding from the Malignant
+Vapors of the Body, which vellicate and
+pluck the Nerves, is cured by the Irradiation
+and Specifick quality of this Remedy.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Pal<U+017F>ie.</head>
+               <p>The Pal<U+017F>ie being an aboli<U+017F>hing of the Mo<g ref="char:EOLhyphen"/>tion,
+and <U+017F>ometime of the Sen<U+017F>e, cau<U+017F>ed by
+the want of the Animal Spirits, which are
+nece<U+017F><U+017F>ary for the free motion of the Body, is
+helped by this Remedy; which openeth ob<g ref="char:EOLhyphen"/><U+017F>tructions,
+dilateth the pa<U+017F><U+017F>ages, quickneth the
+Animal Spirits, and makes them fit for Radia<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="disease">
+               <pb n="73" facs="tcp:30448:47"/>
+               <head>Again<U+017F>t the Falling Sickne<U+017F>s.</head>
+               <p>The Epilep<U+017F>ie or Falling Sickne<U+017F>s, is an
+often <U+017F>tretching of the Body, or a <U+017F>hort Con<g ref="char:EOLhyphen"/>vul<U+017F>ion,
+by which a Man falleth down on a
+<U+017F>udden, without Sen<U+017F>e or Motion; <U+017F>o that he
+neither heareth nor <U+017F>eeth, nor remembreth
+any thing that is pa<U+017F>t in the Fit, when he is
+out of it. In the agitation they foam at the
+Mouth, and the Mu<U+017F>cles being loo<U+017F>e, either
+the Urine, or Dung, or Seed. cometh out in<g ref="char:EOLhyphen"/>voluntarily.
+This being cau<U+017F>ed by a Malignant
+Vapor which proceedeth from either the
+Brains, the Stomach, or <U+017F>ome particular part
+of the Body, is cured by the Tincture of
+<hi>Coral,</hi> given in <hi>Paeony Water,</hi> after the nece<U+017F><g ref="char:EOLhyphen"/><U+017F>ary
+Evacuations.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Stone and Gravel.</head>
+               <p>In this di<U+017F>temper we give both the Tincture
+and the Salt; that while the Tincture com<g ref="char:EOLhyphen"/>forteth
+the noble Parts, the Salt by its open<g ref="char:EOLhyphen"/>ing
+and diuretick faculty may wa<U+017F>te and break
+to pieces what<U+017F>oever is of Stone or Gravel.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t <g ref="char:V"><U+01B2></g>lcers.</head>
+               <p>Ulcers being either inward or outward, the
+inward ones are cured by the taking of the
+<U+017F>aid Tincture in a proper Vehicle; and the
+outward ones, be they never <U+017F>o malignant, are
+cured by the outward application of it; for it
+<pb n="74" facs="tcp:30448:48"/>
+correcteth all malignity, and cicatrizeth them,
+even to admiration.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Pleuri<U+017F>ie.</head>
+               <p>It hath been a general opinion, that a Pleu<g ref="char:EOLhyphen"/>ri<U+017F>ie
+cannot be cured without Blood-letting<g ref="char:punc"><U+25AA></g>
+but give me leave to tell you, That in my forty
+years experience and practice, I have <U+017F>een more
+mi<U+017F>earry by that way, then <U+017F>aved; unle<U+017F>s the
+Body be extraordinarily Plethorical, and the
+Pleuri<U+017F>ie exceeding violent<g ref="char:punc"><U+25AA></g> the rea<U+017F>on is,
+that <U+017F>ub<U+017F>tracting the Blood, you exhau<U+017F>t the
+Trea<U+017F>ure of Life. So that many times, the Pa<g ref="char:EOLhyphen"/>tient
+cannot la<U+017F>t till Suppuration, for want of
+<U+017F>trength and <U+017F>o drops by the way before he can
+reach home. Add to this, that the Feaver
+which is an in<U+017F>eparable companion of the
+Pleuri<U+017F>ie, is not <U+017F>o <U+017F>oon extingui<U+017F>hed this way
+as it is <U+017F>cattered into <U+017F>everal Particles, by this
+noble Remedy, while the Fomentations di<U+017F><g ref="char:EOLhyphen"/>cu<U+017F>s
+the <U+017F>eat of the di<U+017F>temper, and a<U+017F><U+017F>wage
+the pain and other <U+017F>ymptoms, and proper
+Pulte<U+017F><U+017F>es utterly di<U+017F><U+017F>ipate the Impo<U+017F>thume.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Barrenne<U+017F>s in Women.</head>
+               <p>There being divers and almo<U+017F>t innumera<g ref="char:EOLhyphen"/>ble
+Cau<U+017F>es of Barrenne<U+017F>s, we do not pretend
+here to <U+017F>hooe every foot by the <U+017F>ame La<U+017F>t; we
+know that <U+017F>ome of the Cau<U+017F>es may belong
+to Chirurgery, as well as to Phy<U+017F>ick. The judi<g ref="char:EOLhyphen"/>cious
+Phy<U+017F>ician that <U+017F>hall be near at hand, will
+<pb n="75" facs="tcp:30448:48"/>
+ea<U+017F>ily di<U+017F>tingui<U+017F>h them, and pre<U+017F>cribe Reme<g ref="char:EOLhyphen"/>dies
+proper for them. We do only pretend
+that when<U+017F>oever the Cau<U+017F>e <U+017F>hall lie in any in<g ref="char:EOLhyphen"/>tempery
+of the noble parts, no Remedy <U+017F>hall
+go beyond this.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Running of the Reins.</head>
+               <p>The Body being duly purged, and the ma<g ref="char:EOLhyphen"/>lignity
+<U+017F>wept away, our Tincture is a Sove<g ref="char:EOLhyphen"/>reign
+Remedy to <U+017F>top it, by comforting the
+parts, and to prevent any lachrymation or
+weakne<U+017F>s, which u<U+017F>e to follow that di<U+017F>temper,
+and many times put the Patients to a great
+deal of impatiency, and the Phy<U+017F>ician to his
+<hi>nonplus.</hi>
+               </p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Intemperies of the Liver,
+Spleen, and Kidneys.</head>
+               <p>This Tincture being given in a proper Ve<g ref="char:EOLhyphen"/>hicle,
+will rectifie them, as well by its Anati<g ref="char:EOLhyphen"/>cal
+temper, as by its Actinoboli<U+017F>m and Speci<g ref="char:EOLhyphen"/>fick
+qualities.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t the Venereal Di<U+017F>ea<U+017F>e, vulgarly
+called the Great Pox.</head>
+               <p>This Di<U+017F>ea<U+017F>e having its chief foundation in
+the Liver, which by the Malignant quality
+of this di<U+017F>temper, hath lo<U+017F>t his Tone, and di<U+017F><g ref="char:EOLhyphen"/>per<U+017F>ed
+the Di<U+017F>ea<U+017F>e thorough the whole Body.
+By the u<U+017F>e of this Tincture is brought to its
+right temper again; and all the malign<gap reason="illegible: missing" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of
+<pb n="76" facs="tcp:30448:49"/>
+the Di<U+017F>ea<U+017F>e expelled, by the Alexipharmacal
+and Specifick quality of it.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Faintings.</head>
+               <p>Fainting is a <U+017F>udden failing of the <U+017F>trength,
+that is, a <U+017F>udden diminution of the Vital, and
+con<U+017F>equently of the Animal Actions. The
+Cau<U+017F>e is a <U+017F>udden want of the Vital Spirits,
+which by the Virtue of this Tincture, and of
+our admirable Water mixed together, are on
+a <U+017F>udden repaired, and the Patient kept in the
+Land of the Living, as I have <U+017F>ufficiently
+proved upon divers per<U+017F>ons that are alive to
+this day.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Surfeitings.</head>
+               <p>There are two kinds of Surfeits, one in quan<g ref="char:EOLhyphen"/>tity,
+the other in quality, but both many
+times mortal. The Surfeit in quantity is, when
+one eateth or drinketh more then his appetite
+de<U+017F>ireth, and his <U+017F>trength can bear. The Sur<g ref="char:EOLhyphen"/>feit
+in quality is, when one eateth or drinketh
+never <U+017F>o little of a thing that he hath a pre<g ref="char:EOLhyphen"/>judice
+again<U+017F>t; both are immediately cured by
+the Tincture of <hi>Coral,</hi> mixed with our <hi>Cor<g ref="char:EOLhyphen"/>dial
+Water;</hi> not as the former Di<U+017F>ea<U+017F>es we
+have made mention of, either by Specifick
+qualities or Actinoboli<U+017F>ms, but by their grate<g ref="char:EOLhyphen"/>fulne<U+017F>s
+and friendline<U+017F>s to our nature, which
+when it lieth under the burden of a Surfeit,
+and findeth the gratefulne<U+017F>s of this Remedy
+<pb n="77" facs="tcp:30448:49"/>
+it gra<U+017F>peth upon it, and lets fall the Matter of
+the Surfeit, which being loo<U+017F>ed it expelleth
+by Vomiting, without leaving any Particle of
+it behind, and <U+017F>o is immediately well, as I
+have tried many times, even to the admiration
+of the beholders.</p>
+            </div>
+            <div type="disease">
+               <head>Again<U+017F>t Vomitings.</head>
+               <p>This is a pernicious Symptom which is
+much in reign, when a Patient can retain no<g ref="char:EOLhyphen"/>thing
+in his Stomach, but immediately bring<g ref="char:EOLhyphen"/>eth
+it up all again, whether Meat, Drink, or
+Phy<U+017F>ick. But this Tincture, and its Vehicle
+are <U+017F>o friendly to Nature, and of <U+017F>o admira<g ref="char:EOLhyphen"/>ble
+a Virtue, that it will immediately <U+017F>tay
+the Vomiting; And if there be any Cau<U+017F>e of
+it, will bring it up, or if the Remedy <U+017F>tayeth
+with the Cau<U+017F>e of the Vomiting in the Body,
+it will certainly conquer and de<U+017F>troy it.</p>
+            </div>
+            <div type="commentary">
+               <p>Many more other Di<U+017F>ea<U+017F>es could I mention,
+in which the Tincture of <hi>Coral</hi> would effect
+wonderful things. But I think the<U+017F>e will be
+<U+017F>ufficient for any rea<U+017F>onable and ingenuous
+per<U+017F>on: Tho<U+017F>e that will know more, may
+advi<U+017F>e with the Author, who <U+017F>hall ingenuou<U+017F>ly
+tell them if it be fit for their di<U+017F>temper or not,
+and in what Vehicle it mu<U+017F>t be taken; advi<g ref="char:EOLhyphen"/><U+017F>ing
+them <U+017F>eriou<U+017F>ly, That if they receive no
+benefit by this Remedy in tho<U+017F>e Di<U+017F>ea<U+017F>es for
+<pb n="78" facs="tcp:30448:50"/>
+which it is properly admini<U+017F>tred, they can
+hardly expect it from any other. The Author
+having al<U+017F>o a peculiar Talent to judge of Di<U+017F><g ref="char:EOLhyphen"/>ea<U+017F>es,
+and the Remedies thereof, by the In<g ref="char:EOLhyphen"/><U+017F>pection
+of Urines, de<U+017F>ireth tho<U+017F>e that will
+<U+017F>ave charges or lives, afar of, to <U+017F>end their
+Water; by the examination of which, they
+<U+017F>hall receive all rea<U+017F>onable <U+017F>atisfaction: And
+for the<U+017F>e purpo<U+017F>es and others, he <U+017F>hall give
+his con<U+017F>tant attendance at his own Hou<U+017F>e, from
+eight of the clock in the Morning, till eleven;
+and from three in the Afternoon, till five.
+The re<U+017F>t of the time, it will be known where
+he is, and when he will be at home again.</p>
+               <p>Tho<U+017F>e al<U+017F>o that <U+017F>hall doubt of the reality
+and extraction of the <U+017F>aid Tincture, may
+have from him <U+017F>ome of his <hi>Men<U+017F>truum,</hi> with
+which he extracteth it, and with that and
+their own <hi>Coral,</hi> make the experiment them<g ref="char:EOLhyphen"/><U+017F>elves.</p>
+            </div>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="79" facs="tcp:30448:50"/>
+            <head>CHAP. X.</head>
+            <head type="sub">How and in what Vehicles the Tincture
+of <hi>Coral</hi> is to be administred.</head>
+            <p>THis Tincture being <U+017F>o noble and <U+017F>o pre<g ref="char:EOLhyphen"/>cious,
+and working <U+017F>o powerfully in <U+017F>o
+little a quantity, is to be u<U+017F>ed with all circum<g ref="char:EOLhyphen"/><U+017F>pection
+imaginable, that there be no wa<U+017F>te
+in the quantity, nor impediment in the qua<g ref="char:EOLhyphen"/>lity.
+There would be a great wa<U+017F>te in the
+quantity, if it were taken alone, and by it
+<U+017F>elf, con<U+017F>idering, That one pound of <hi>Coral</hi>
+will <U+017F>carce yield above one drachm of Tin<g ref="char:EOLhyphen"/>cture;
+therefore we give it in a little quanti<g ref="char:EOLhyphen"/>ty
+(<U+017F>uppo<U+017F>e of about twenty drops) in a pro<g ref="char:EOLhyphen"/>per
+Vehicle, <U+017F>uppo<U+017F>e of two or three ounces;
+that by its diffu<U+017F>ion in it, it may go and enter
+over all the noble parts of the Body; as you
+<U+017F>ee that a grain of <hi>Cochenille</hi> will die a thou<g ref="char:EOLhyphen"/><U+017F>and
+times of its weight of Water; and that
+<hi>Saffron</hi> will diffu<U+017F>e its Tincture in a prodigi<g ref="char:EOLhyphen"/>ous
+quantity of liquor. There would al<U+017F>o
+be a wa<U+017F>te in the quantity, if the Tincture
+were given alone, and by it <U+017F>elf; for the
+Natural heat would con<U+017F>ume it, before it could
+diffu<U+017F>e its virtue, and radiate thorough the
+<pb n="80" facs="tcp:30448:51"/>
+whole Body. Add al<U+017F>o, that a Specifick Vehi<g ref="char:EOLhyphen"/>cle
+will make it work more effectually and
+determinately upon the part aimed at. There
+would be al<U+017F>o an impediment in the quality,
+if it were not given in a Vehicle that were
+unfit, or contrary to the di<U+017F>temper that it is
+given for; as if of two Hor<U+017F>es, the one <U+017F>hould
+draw before, and the other back, they could
+hardly reach home in a convenient time; or,
+if it were given among<U+017F>t Meat, or upon a full
+Stomach, it is evident, that its virtue <U+017F>hould
+be drowned, and its Radiation hindered: As
+when a thick cloud is interpo<U+017F>ed between the
+Sun, and us. For the illu<U+017F>tration of what we
+have <U+017F>aid, it is vi<U+017F>ible, and in a manner palpa<g ref="char:EOLhyphen"/>ble,
+That if the <U+017F>aid Tincture were given
+again<U+017F>t the Plague and Malignant Feavers in
+<hi>Plantain Water,</hi> it would hardly work the
+de<U+017F>ired effect, becau<U+017F>e <hi>Plantain Water</hi> is cool
+and a<U+017F>tringent; and our intention in this, is
+to expel the malignity of the Plague and Fea<g ref="char:EOLhyphen"/>vers
+by a moderate <U+017F>weat, which cannot be
+conveniently procured, but by a hot Vehicle,
+<U+017F>uch as is our Cordial Water, or that of <hi>Car<g ref="char:EOLhyphen"/>duus,</hi>
+and <U+017F>uch other-like. Contrariwi<U+017F>e, if
+in immoderate Fluxes of Women and Haemor<g ref="char:EOLhyphen"/>rhagies,
+it be admini<U+017F>tred in hot Vehicles,
+and not in cool and A<U+017F>tringent ones, <U+017F>uch as
+<hi>Plantain Water</hi> is, little good can be expected
+<pb n="81" facs="tcp:30448:51"/>
+of it, by rea<U+017F>on of the contrariety and di<U+017F><g ref="char:EOLhyphen"/>proportion
+that is between the Agent and the
+Patient, that is, the Remedy and the Di<U+017F>ea<U+017F>e.
+Let it therefore be concluded, That it mu<U+017F>t
+be given in a proper Vehicle, that is, <U+017F>uch
+a one, as is proper for the di<U+017F>temper,
+and will forward the effect of the <U+017F>aid Tin<g ref="char:EOLhyphen"/>cture,
+and hath a peculiar analogy and cor<g ref="char:EOLhyphen"/>re<U+017F>pondence
+with the Di<U+017F>ea<U+017F>e aimed at. As
+for example, For the <U+017F>topping of all immo<g ref="char:EOLhyphen"/>derate
+Fluxes in Men and Women, it ought
+to be given in <hi>Plantain Water,</hi> or the decocti<g ref="char:EOLhyphen"/>on
+of the Roots of <hi>Tormentil.</hi> For the clean<g ref="char:EOLhyphen"/><U+017F>ing
+or renewing of the Blood, in <hi>Fumitory</hi>
+or <hi>Cichory Water.</hi> For <U+017F>trengthning the Heart
+and the Vital Spirits, in <hi>Buglo<U+017F>s,</hi> or <hi>Borrage
+Water.</hi> For comforting and <U+017F>trengthning the
+Stomach, in <hi>Mint</hi> or <hi>Penniroyal Water.</hi> For
+removing of ob<U+017F>tructions in <hi>Sorrel Water,
+Little Centaury, Spleenwort, Liverwort.</hi> For
+di<U+017F><U+017F>olving congealed Blood, in Water of <hi>Cher<g ref="char:EOLhyphen"/>vil</hi>
+or <hi>Dai<U+017F>ie.</hi> For the Fits of the Mother, in
+the Water of <hi>Motherwort, Balm, Penniroyal.</hi>
+For the Drop<U+017F>ie, Convul<U+017F>ion, Pal<U+017F>ie, Falling-Sickne<U+017F>s,
+in <hi>Cinnamon Water,</hi> continuing for
+a while, becau<U+017F>e tho<U+017F>e Di<U+017F>ea<U+017F>es are <U+017F>tubborn.
+For the Stone and Gravel, in <hi>Saxifrage</hi> or
+<hi>Re<U+017F>tharrow Water.</hi> The do<U+017F>e is from <U+017F>ix grains
+or ten, to a <U+017F>cruple or two, according to the
+<pb n="82" facs="tcp:30448:52"/>
+age and <U+017F>trength of the Patient, and the
+greatne<U+017F>s of the di<U+017F>temper: And <U+017F>o it may
+be <U+017F>aid of all the re<U+017F>t of the di<U+017F>tempers which
+it is proper for. Upon which, the Author
+will give his advice to tho<U+017F>e that <U+017F>hall de<U+017F>ire
+it; and for that purpo<U+017F>e, <U+017F>hall give his con<g ref="char:EOLhyphen"/><U+017F>tant
+attendance at his own Hou<U+017F>e, from eight
+of the clock in the Morning, till eleven; and
+from three in the Afternoon, till five. The
+<U+017F>ame Author having al<U+017F>o a <U+017F>pecial Talent to
+judge of Di<U+017F>ea<U+017F>es, and the Remedies thereof,
+by the In<U+017F>pection of Urines, may be advi<U+017F>ed
+with at the <U+017F>aid time; therefore tho<U+017F>e that
+<U+017F>hall be minded to <U+017F>ave the charges of Fees,
+may at the <U+017F>aid time bring or <U+017F>end their Urine,
+upon <U+017F>ight whereof, they <U+017F>hall receive all rea<g ref="char:EOLhyphen"/><U+017F>onable
+<U+017F>atisfaction.</p>
+            <p>As for the <U+017F>aid Tincture of <hi>Coral,</hi> with the
+Vehicles proper for it, they are only to be had
+and mini<U+017F>tred by him, to prevent all <U+017F>uppo<g ref="char:EOLhyphen"/><U+017F>ition,
+fal<U+017F>ification, or mi<U+017F>takes, the World,
+at pre<U+017F>ent, being <U+017F>o full of Envy, Backbiting,
+and Deceitfulne<U+017F>s, that he dares tru<U+017F>t no Body
+with it; but is re<U+017F>olved, as he is the <U+017F>ole
+Author of it, <U+017F>o to have all the prai<U+017F>e of it,
+and bear all the blame alone, if any be. He
+al<U+017F>o carrieth always <U+017F>ome of the <U+017F>aid Tincture
+about him, ready to be admini<U+017F>tred, when<g ref="char:EOLhyphen"/><U+017F>oever
+occa<U+017F>ion <U+017F>hall require, that no time
+<pb n="83" facs="tcp:30448:52"/>
+may be lo<U+017F>t, as mo<U+017F>t commonly it is, in acute
+and exceeding ha<U+017F>ty Di<U+017F>ea<U+017F>es. That <U+017F>hall not
+hinder, but if any Body be <U+017F>atisfied with the
+Virtues and Effects of the <U+017F>aid Tincture, he
+may have of him what quantity he plea<U+017F>eth
+to lie by him, again<U+017F>t the time of need; and
+this he doth to make good his Motto, which
+al<U+017F>o was that of <hi>Cardan. Io <U+017F>uon Medico non di
+parole ma d'effetto.</hi>
+            </p>
+            <closer>
+               <dateline>From my Hou<U+017F>e in
+Clarkenwel Clo<U+017F>e, the
+Second on the Left<g ref="char:EOLhyphen"/>hand.</dateline>
+               <signed>Garencieres.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+
